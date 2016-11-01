@@ -1,0 +1,1480 @@
+['its '] ['models '] more ['fast-forward ', 'rewind ']
+Preferred Entity for feature 'fast-forward ': ['its ']
+Preferred Entity for feature 'rewind ': ['its ']
+
+['4.5 gb '] ['0.7 gb '] nicer []
+Preferred Entity: ['4.5 gb ']
+
+['mirror '] ['silver '] more ['finish ']
+Preferred Entity for feature 'finish ': ['mirror ']
+
+['dvd players '] ['this '] better ['quality ']
+Preferred Entity for feature 'quality ': ['dvd players ']
+
+['panasonics ', 'toshibas ', 'sonys '] [] cheaper []
+Preferred Entity: ['panasonics ', 'toshibas ', 'sonys ']
+
+
+['long run '] [] more ['spend ']
+Preferred Entity for feature 'spend ': ['long run ']
+
+['this '] [] best ['dvd player ']
+Preferred Entity for feature 'dvd player ': ['this ']
+
+['apex player '] [] better ['working out ']
+Preferred Entity for feature 'working out ': ['apex player ']
+
+
+['it '] [] better ['designed ']
+Preferred Entity for feature 'designed ': ['it ']
+
+['apex '] [] better ['impression ', 'product ']
+Preferred Entity for feature 'impression ': ['apex ']
+Preferred Entity for feature 'product ': ['apex ']
+
+['dvds '] [] more ['features ']
+Preferred Entity for feature 'features ': ['dvds ']
+
+['apex '] [] best ['dvd player ']
+Preferred Entity for feature 'dvd player ': ['apex ']
+
+
+['ad600 '] [] best ['dvd player ']
+Preferred Entity for feature 'dvd player ': ['ad600 ']
+
+['$ '] ['$ '] better ['dissapointment ']
+Preferred Entity for feature 'dissapointment ': ['$ ']
+
+['this dvd player '] [] best []
+Preferred Entity: ['this dvd player ']
+
+['trouble '] ['worth '] more []
+Preferred Entity: ['worth ']
+
+['this '] [] one of the few ['play almost everything ']
+Preferred Entity for feature 'play almost everything ': ['this ']
+
+['apex '] [] best ['cheap quality brand ']
+Preferred Entity for feature 'cheap quality brand ': ['apex ']
+
+['it '] [] top notch ['picture ']
+Preferred Entity for feature 'picture ': ['it ']
+
+[] ['current price '] more ['paid ']
+['current price ']is not preferred
+
+['this '] [] first ['first digital camera ']
+Preferred Entity for feature 'first digital camera ': ['this ']
+
+['post '] [] more ['accurate review ']
+Preferred Entity for feature 'accurate review ': ['post ']
+
+
+['g'] [] best ['bargain in digital cameras ']
+Preferred Entity for feature 'bargain in digital cameras ': ['g']
+
+['powershot g'] [] recommend ['camera ']
+Preferred Entity for feature 'camera ': ['powershot g']
+
+[] ['brands '] less ['output ']
+['brands ']is not preferred
+
+['this '] [] first ['first digital camera ']
+Preferred Entity for feature 'first digital camera ': ['this ']
+
+
+['camera '] ['nikon 4500 '] more ['noise at iso ']
+Preferred Entity for feature 'noise at iso ': ['camera ']
+
+['it '] [] less ['versatile ']
+Preferred Entity for feature 'versatile ': ['it ']
+
+['g'] [] chose ['high quality ', 'clean images ']
+Preferred Entity for feature 'high quality ': ['g']
+Preferred Entity for feature 'clean images ': ['g']
+
+['this '] [] over ['buy ']
+Preferred Entity for feature 'buy ': ['this ']
+
+
+['switch to raw format '] [] more ['post-processing flexibility ']
+Preferred Entity for feature 'post-processing flexibility ': ['switch to raw format ']
+
+[] ['g'] more ['intuitive ']
+['g']is not preferred
+
+['it '] ['g'] outperforms ['haze ', 'colors ']
+Preferred Entity for feature 'haze ': ['it ']
+Preferred Entity for feature 'colors ': ['it ']
+
+['g'] [] best ['image quality ']
+Preferred Entity for feature 'image quality ': ['g']
+
+['this '] [] best []
+Preferred Entity: ['this ']
+
+['this '] [] first ['digital camera ']
+Preferred Entity for feature 'digital camera ': ['this ']
+
+['this '] ['ti '] better ['pictures ']
+Preferred Entity for feature 'pictures ': ['this ']
+
+['it '] [] easier ['fly adjustments ']
+Preferred Entity for feature 'fly adjustments ': ['it ']
+
+
+['canon g'] [] best ['4mp camera ']
+Preferred Entity for feature '4mp camera ': ['canon g']
+
+['g'] [] better []
+Preferred Entity: ['g']
+
+['canon '] [] won []
+Preferred Entity: ['canon ']
+
+
+['these things '] [] better []
+Preferred Entity: ['these things ']
+
+
+['its '] ['other camera '] better ['lines ', 'grip ']
+Preferred Entity for feature 'lines ': ['its ']
+Preferred Entity for feature 'grip ': ['its ']
+
+
+['this '] [] first ['digital camera ']
+Preferred Entity for feature 'digital camera ': ['this ']
+
+['this '] [] first ['digital camera ']
+Preferred Entity for feature 'digital camera ': ['this ']
+
+
+
+['it '] [] better ["pic 's "]
+Preferred Entity for feature 'pic 's ': ['it ']
+
+
+['this camera '] [] excellent ['choice ']
+Preferred Entity for feature 'choice ': ['this camera ']
+
+['this camera '] ['others '] much less ['noise in dark places ']
+Preferred Entity for feature 'noise in dark places ': ['this camera ']
+
+[] ['nikon slr ', 'range of lenses '] better ['photos ']
+['nikon slr ', 'range of lenses ']is not preferred
+
+['this '] [] first ['digital camera I owned ']
+Preferred Entity for feature 'digital camera I owned ': ['this ']
+
+['this '] [] finest ['camera in price and category ']
+Preferred Entity for feature 'camera in price and category ': ['this ']
+
+['it '] [] one of the few ['works right out of box ']
+Preferred Entity for feature 'works right out of box ': ['it ']
+
+['this camera  '] [] closest []
+['this camera  ']is not preferred
+
+['g'] ['canon '] better []
+Preferred Entity: ['g']
+
+['5 megapixel camera '] ['powershot s'] longer, more ['zoom ', 'adjustability ']
+Preferred Entity for feature 'zoom ': ['5 megapixel camera ']
+Preferred Entity for feature 'adjustability ': ['5 megapixel camera ']
+
+['canon g'] ['nikon coolpix 5700 '] more ['comfortable to hold and use ']
+Preferred Entity for feature 'comfortable to hold and use ': ['canon g']
+
+['g'] [] better ['lens ', 'picture quality ']
+Preferred Entity for feature 'lens ': ['g']
+Preferred Entity for feature 'picture quality ': ['g']
+
+['canon speedlite 4'] [] chose []
+Preferred Entity: ['canon speedlite 4']
+
+['the camera for two months '] [] more ['pleased ']
+Preferred Entity for feature 'pleased ': ['the camera for two months ']
+
+['camera '] [] best ['digital photos ']
+Preferred Entity for feature 'digital photos ': ['camera ']
+
+
+['g'] ['nikon coolpix 5700 ', 'sony dsc-f 7'] superior ['image quality ', 'resolution ', 'coloration ']
+Preferred Entity for feature 'image quality ': ['g']
+Preferred Entity for feature 'resolution ': ['g']
+Preferred Entity for feature 'coloration ': ['g']
+
+['this '] [] best ['non-slr digital camera ']
+Preferred Entity for feature 'non-slr digital camera ': ['this ']
+
+
+['canon g'] ['nikon coolpix 5000 '] beats ['performance ']
+Preferred Entity for feature 'performance ': ['canon g']
+
+['canon '] [] better ['processing algorithms ']
+Preferred Entity for feature 'processing algorithms ': ['canon ']
+
+['canon g'] [] best ['digital camera ']
+Preferred Entity for feature 'digital camera ': ['canon g']
+
+['this camera '] ['nikon 5000 '] twice ['battery life ']
+Preferred Entity for feature 'battery life ': ['this camera ']
+
+['it '] [] best ['digital camera ']
+Preferred Entity for feature 'digital camera ': ['it ']
+
+['g'] ['camera '] less []
+Preferred Entity: ['camera ']
+
+
+['xtra '] ['zen nx '] better ['screen ']
+Preferred Entity for feature 'screen ': ['xtra ']
+
+
+['redhat software '] ['software '] better []
+Preferred Entity: ['redhat software ']
+
+[] ['i-pod '] cheaper []
+['i-pod ']is not preferred
+
+['zen nx '] ['ipod '] cheaper []
+Preferred Entity: ['zen nx ']
+
+['scroll wheel '] ['ipod touchpad '] improvement []
+Preferred Entity: ['scroll wheel ']
+
+['it '] [] bigger []
+Preferred Entity: ['it ']
+
+['it '] [] smaller ['screen ']
+Preferred Entity for feature 'screen ': ['it ']
+
+[] ['ipod '] bigger []
+['ipod ']is not preferred
+
+[] ['ipod '] less ['expensive ']
+Preferred Entity for feature 'expensive ': ['ipod ']
+
+[] ['i-pod '] better []
+['i-pod ']is not preferred
+
+['it '] [] best ['player ']
+Preferred Entity for feature 'player ': ['it ']
+
+['this  '] ['i-pod '] blows []
+Preferred Entity: ['i-pod ']
+
+['it '] ['ipod '] less ['costs ']
+Preferred Entity for feature 'costs ': ['it ']
+
+
+['this little device '] ['ipod '] more ['price ']
+Preferred Entity for feature 'price ': ['this little device ']
+
+['newer ones '] ['arvchod jukeboxes '] better []
+Preferred Entity: ['newer ones ']
+
+[] ['ipod '] bigger ['size ']
+Preferred Entity for feature 'size ': ['ipod ']
+
+['software - music match jukebox '] [] greatest []
+Preferred Entity: ['software - music match jukebox ']
+
+['it navigation '] ['zen '] better []
+Preferred Entity: ['it navigation ']
+
+['it '] ['zen '] more []
+Preferred Entity: ['it ']
+
+[] ['ipod '] less ['expensive ']
+Preferred Entity for feature 'expensive ': ['ipod ']
+
+['it '] ['ipod '] bigger []
+Preferred Entity: ['it ']
+
+['mine '] ['ipod '] less ['$ ']
+Preferred Entity for feature '$ ': ['mine ']
+
+['this '] [] better ['buy ']
+Preferred Entity for feature 'buy ': ['this ']
+
+['palm sized unit '] ['ipod '] bigger []
+Preferred Entity: ['palm sized unit ']
+
+['creative mp'] [] best ['sound quality ']
+Preferred Entity for feature 'sound quality ': ['creative mp']
+
+
+['software '] [] easiest ['using it ']
+Preferred Entity for feature 'using it ': ['software ']
+
+[] ['i-pod '] bigger ['size ', 'weighs ']
+Preferred Entity for feature 'size ': ['i-pod ']
+['i-pod ']is not preferred
+
+['scroll button '] [] best []
+Preferred Entity: ['scroll button ']
+
+['the playes '] ['ipod '] superior ['sound quality ']
+Preferred Entity for feature 'sound quality ': ['the playes ']
+
+['the software '] ['musicmatch '] better ['filing system ', 'use ']
+Preferred Entity for feature 'filing system ': ['the software ']
+Preferred Entity for feature 'use ': ['the software ']
+
+['this '] ['ipod '] better ['choice ']
+Preferred Entity for feature 'choice ': ['this ']
+
+
+
+[] ['40gb ipod '] cheaper ['price ']
+['40gb ipod ']is not preferred
+
+['this thing '] ['ipod '] more ['spend ']
+Preferred Entity for feature 'spend ': ['this thing ']
+
+['zx '] ['ipod '] bigger ['technology ']
+Preferred Entity for feature 'technology ': ['zx ']
+
+['zx '] ['ipod '] superior ['sound quality ']
+Preferred Entity for feature 'sound quality ': ['zx ']
+
+['this '] ['their software '] easier ['transferring my music ']
+Preferred Entity for feature 'transferring my music ': ['this ']
+
+['this '] [] easier []
+Preferred Entity: ['this ']
+
+['windows explorer style navigation system '] [] easier ['use ']
+Preferred Entity for feature 'use ': ['windows explorer style navigation system ']
+
+['portable player '] [] more ['durable ']
+Preferred Entity for feature 'durable ': ['portable player ']
+
+
+['notmad explorer '] [' existing software '] recommend ['use ']
+Preferred Entity for feature 'use ': ['notmad explorer ']
+
+['sliding old fashioned volume knob '] ['digital version '] easier []
+Preferred Entity: ['sliding old fashioned volume knob ']
+
+['them '] ['phones '] better ['sounding ', 'comfortable ']
+Preferred Entity for feature 'sounding ': ['them ']
+Preferred Entity for feature 'comfortable ': ['them ']
+
+['up ', 'down ', 'left ', 'right '] [] better ['control ']
+Preferred Entity for feature 'control ': ['up ', 'down ', 'left ', 'right ']
+
+['this mp'] ['ipod '] more ['memory ']
+Preferred Entity for feature 'memory ': ['this mp']
+
+['ipod '] [] cheaper []
+Preferred Entity: ['ipod ']
+
+['ipod '] [] better ['user interface ']
+Preferred Entity for feature 'user interface ': ['ipod ']
+
+['nomad '] ['apple '] cheaper []
+Preferred Entity: ['nomad ']
+
+['headphones '] [] best []
+Preferred Entity: ['headphones ']
+
+['it '] ['this '] better []
+Preferred Entity: ['it ']
+
+['zen xtra '] [] best ['mp']
+Preferred Entity for feature 'mp': ['zen xtra ']
+
+['cd wallet '] [] easier ['manage ']
+Preferred Entity for feature 'manage ': ['cd wallet ']
+
+['cd player '] ['nomad '] superior ['sound quality ']
+Preferred Entity for feature 'sound quality ': ['cd player ']
+
+['this '] ['ipods '] better ['buy ']
+Preferred Entity for feature 'buy ': ['this ']
+
+
+[] ['amazon '] more ['paid ']
+['amazon ']is not preferred
+
+
+['zen ', 'ipod '] [] much nicer ['form factor ']
+Preferred Entity for feature 'form factor ': ['zen ', 'ipod ']
+
+['software '] [] easier []
+Preferred Entity: ['software ']
+
+['flash card memory '] [] more ['expensive ']
+['flash card memory ']is not preferred
+
+['it '] [] cheaper ['produce ', 'prone to damage ']
+Preferred Entity for feature 'produce ': ['it ']
+Preferred Entity for feature 'prone to damage ': ['it ']
+
+
+['the device '] ['ipod '] larger []
+Preferred Entity: ['the device ']
+
+['it '] ['ipod '] larger []
+Preferred Entity: ['it ']
+
+['this one '] [] best []
+Preferred Entity: ['this one ']
+
+['this '] ['ipod '] cheaper []
+Preferred Entity: ['this ']
+
+
+['its '] [] heaveier []
+Preferred Entity: ['its ']
+
+['its '] [] more ['select songs ']
+Preferred Entity for feature 'select songs ': ['its ']
+
+['scroll button '] ['models '] more ['cumbersome ']
+Preferred Entity for feature 'cumbersome ': ['scroll button ']
+
+['its '] ['ipod  '] larger []
+Preferred Entity: ['its ']
+
+['this '] [] best ['buy ']
+Preferred Entity for feature 'buy ': ['this ']
+
+['creative mp'] [] best ['sound quality ']
+Preferred Entity for feature 'sound quality ': ['creative mp']
+
+
+['40gb nomad zen xtra '] [] chose []
+['40gb nomad zen xtra ']is not preferred
+
+['the new organizer software '] [] easier ['use ']
+Preferred Entity for feature 'use ': ['the new organizer software ']
+
+['usb recharging '] [] choice []
+Preferred Entity: ['usb recharging ']
+
+['this player '] [] cheesiest ['construction ']
+Preferred Entity for feature 'construction ': ['this player ']
+
+['subsequent behavior '] [] worse []
+['subsequent behavior ']is not preferred
+
+['it '] [] worst []
+['it ']is not preferred
+
+['hard-drive based player '] ['other devices '] less ['minimal pause between songs ']
+Preferred Entity for feature 'minimal pause between songs ': ['hard-drive based player ']
+
+['replacement '] [] better []
+Preferred Entity: ['replacement ']
+
+
+['this player '] [] best []
+Preferred Entity: ['this player ']
+
+['software '] [] biggest ['drawback ']
+Preferred Entity for feature 'drawback ': ['software ']
+
+['it '] [] easier []
+Preferred Entity: ['it ']
+
+['future '] ['now '] less ['cost ']
+Preferred Entity for feature 'cost ': ['future ']
+
+['this thing '] ['ipod '] more ['cost-effective ']
+Preferred Entity for feature 'cost-effective ': ['this thing ']
+
+[] ['i-pod '] bigger ['size ']
+Preferred Entity for feature 'size ': ['i-pod ']
+
+['nomad zen xtra '] ['ipod '] better ['value ']
+Preferred Entity for feature 'value ': ['ipod ']
+
+['mini ipod '] [] best ['look ']
+Preferred Entity for feature 'look ': ['mini ipod ']
+
+['imo '] ['ipods '] better []
+Preferred Entity: ['imo ']
+
+['it '] ['new-generation ipods '] bigger ['inch ']
+Preferred Entity for feature 'inch ': ['it ']
+
+[] ['ipod '] better ['scroll wheel ']
+['ipod ']is not preferred
+
+['it  '] [] better []
+Preferred Entity: ['it  ']
+
+['nomad '] ['mediasource software '] better ['work ']
+Preferred Entity for feature 'work ': ['nomad ']
+
+['cd players '] [] best ['players ']
+Preferred Entity for feature 'players ': ['cd players ']
+
+['nomad '] ['ipod '] larger []
+Preferred Entity: ['nomad ']
+
+
+[] ['canon '] slower ['speed ']
+Preferred Entity for feature 'speed ': ['canon ']
+
+['nikon 4'] [] best ['camera ']
+Preferred Entity for feature 'camera ': ['nikon 4']
+
+
+['this camera '] ['other two models '] lighter []
+Preferred Entity: ['this camera ']
+
+['this '] [] first ['digital camera ']
+Preferred Entity for feature 'digital camera ': ['this ']
+
+['it '] ['nikon 4'] better []
+Preferred Entity: ['it ']
+
+['this camera '] [] recommend ['pictures ']
+Preferred Entity for feature 'pictures ': ['this camera ']
+
+
+['this little gem '] [] superior ['picture quality ']
+Preferred Entity for feature 'picture quality ': ['this little gem ']
+
+['this camera '] [] best ['value ']
+['this camera ']is not preferred
+
+['it '] [] best ['camera ']
+Preferred Entity for feature 'camera ': ['it ']
+
+['nokia '] ['motorola ', 'panasonic '] prefer []
+Preferred Entity: ['nokia ']
+
+['nokia 66'] [] recommend []
+Preferred Entity: ['nokia 66']
+
+
+['nokia '] [] best ['menus ', 'promps ']
+Preferred Entity for feature 'menus ': ['nokia ']
+Preferred Entity for feature 'promps ': ['nokia ']
+
+['vibrate '] ['feel '] easier []
+Preferred Entity: ['vibrate ']
+
+['this '] [] one of the few ['fm radio tuner ']
+Preferred Entity for feature 'fm radio tuner ': ['this ']
+
+
+['this '] [] best ['phone ']
+Preferred Entity for feature 'phone ': ['this ']
+
+[] ['average phone '] better []
+['average phone ']is not preferred
+
+['samsung s'] ['phone '] superior, cheaper []
+Preferred Entity: ['samsung s']
+
+['phone '] ['samsung phone ', 'motorolla t7', 'sony ericsson t6'] better ['sound quality ']
+Preferred Entity for feature 'sound quality ': ['phone ']
+
+['flip phones imo '] ['nokia phones '] better ['screens keys b ', 'keys ']
+Preferred Entity for feature 'screens keys b ': ['flip phones imo ']
+Preferred Entity for feature 'keys ': ['flip phones imo ']
+
+['66'] ['t6', 't7'] easier ['use ']
+Preferred Entity for feature 'use ': ['66']
+
+['sony ericsson phone ( t6'] [] most ['whistles ', 'bells ']
+Preferred Entity for feature 'whistles ': ['sony ericsson phone ( t6']
+Preferred Entity for feature 'bells ': ['sony ericsson phone ( t6']
+
+['motorolla t7'] ['the motorolla phone '] longer ['battery life ']
+Preferred Entity for feature 'battery life ': ['motorolla t7']
+
+['t6'] [] most ['functionality ']
+Preferred Entity for feature 'functionality ': ['t6']
+
+[] ['phone '] better []
+['phone ']is not preferred
+
+['samsung phones ', 'flip phones '] [] better ['liking ']
+Preferred Entity for feature 'liking ': ['samsung phones ', 'flip phones ']
+
+['this '] [] best ['phone ']
+Preferred Entity for feature 'phone ': ['this ']
+
+['this phone '] [] coolest ['phone ']
+Preferred Entity for feature 'phone ': ['this phone ']
+
+['nokia '] [] first ['nonflip phone ']
+Preferred Entity for feature 'nonflip phone ': ['nokia ']
+
+['this '] [] best ['phone ']
+Preferred Entity for feature 'phone ': ['this ']
+
+['phone '] ['motorola '] better ['produce ']
+Preferred Entity for feature 'produce ': ['phone ']
+
+['phone looks '] ['pictures '] better []
+Preferred Entity: ['phone looks ']
+
+['phone  '] [] better []
+Preferred Entity: ['phone  ']
+
+['speakerphone '] ['speakerphone '] better ['works ']
+Preferred Entity for feature 'works ': ['speakerphone ']
+
+['it '] [] smaller ['looks ']
+Preferred Entity for feature 'looks ': ['it ']
+
+['they '] [] smaller []
+['they ']is not preferred
+
+[] ['phones '] better ['battery ']
+['phones ']is not preferred
+
+['tmoviles '] [] best ['reception ']
+Preferred Entity for feature 'reception ': ['tmoviles ']
+
+['the phone '] [] smaller []
+['the phone ']is not preferred
+
+
+['Firefox ', 'it '] ['Internet Explorer '] faster ['choice ']
+Preferred Entity for feature 'choice ': ['Firefox ', 'it ']
+
+['Opera ', 'it '] ['Konqueror '] faster ['seconds ']
+Preferred Entity for feature 'seconds ': ['Opera ', 'it ']
+
+['Safari '] ['Opera '] faster ['starting and rendering CSS ']
+Preferred Entity for feature 'starting and rendering CSS ': ['Safari ']
+
+['Mac '] ['other operating systems '] slower ['Mozilla , Firefox nor IE perform ']
+Preferred Entity for feature 'Mozilla , Firefox nor IE perform ': ['Mac ']
+
+['AMD '] ['Intel '] win []
+Preferred Entity: ['AMD ']
+
+['Athlon '] ['Coppermine '] more ['L']
+Preferred Entity for feature 'L': ['Coppermine ']
+
+['Coppermine '] ['Athlon '] outperform []
+Preferred Entity: ['Athlon ']
+
+['Pentium III '] [] wins []
+Preferred Entity: ['Pentium III ']
+
+['it  '] [] better []
+Preferred Entity: ['it  ']
+
+['K6-'] ['K6-'] more ['expensive ']
+Preferred Entity for feature 'expensive ': ['K6-']
+
+['K6-'] [] cheaper []
+Preferred Entity: ['K6-']
+
+['K6-'] ['K6-'] easier ['overclock ']
+Preferred Entity for feature 'overclock ': ['K6-']
+
+['it '] ['K6 series  '] more []
+Preferred Entity: ['K6 series  ']
+
+['AMD '] ['Intel P4 '] advantage []
+Preferred Entity: ['AMD ']
+
+['AMD Athlon '] ['Intel P4 '] advantage []
+Preferred Entity: ['AMD Athlon ']
+
+['AMD '] [] favored []
+['AMD ']is not preferred
+
+['AMD '] [] cheaper ['memory ', 'component costs ']
+Preferred Entity for feature 'memory ': ['AMD ']
+Preferred Entity for feature 'component costs ': ['AMD ']
+
+['AMD '] [] faster ['clock speed ']
+Preferred Entity for feature 'clock speed ': ['AMD ']
+
+['AMD '] [] faster []
+Preferred Entity: ['AMD ']
+
+['PC-'] [] faster ['transfer synch speed ', 'refresh cycles ']
+Preferred Entity for feature 'transfer synch speed ': ['PC-']
+Preferred Entity for feature 'refresh cycles ': ['PC-']
+
+['Corsair '] [] best ['buy ']
+Preferred Entity for feature 'buy ': ['Corsair ']
+
+['P4 systems '] ['AMD Athlons '] lower ['Measured voltage ']
+Preferred Entity for feature 'Measured voltage ': ['P4 systems ']
+
+
+['Intel celeron '] [] best ['gamers ']
+Preferred Entity for feature 'gamers ': ['Intel celeron ']
+
+['AMD Athlon '] [] excellent choice ['business applications ']
+Preferred Entity for feature 'business applications ': ['AMD Athlon ']
+
+['Intel Pentium III '] [] pricier []
+['Intel Pentium III ']is not preferred
+
+
+['Crusoe '] ['Pentium III ', 'AMD Athlon '] less []
+Preferred Entity: ['Crusoe ']
+
+['processor '] ['Pentium III ', 'Athlon '] slower []
+Preferred Entity: ['Pentium III ', 'Athlon ']
+
+['TM5600 '] [] better ['perform ']
+Preferred Entity for feature 'perform ': ['TM5600 ']
+
+['C'] ['AMD ', 'Intel '] less ['power ']
+Preferred Entity for feature 'power ': ['C']
+
+['AMD Duron '] ['C'] more ['costing ']
+Preferred Entity for feature 'costing ': ['AMD Duron ']
+
+['Duron '] [] top-of-line ['model ']
+Preferred Entity for feature 'model ': ['Duron ']
+
+['AMD '] ['Intel '] topped ['performance ']
+Preferred Entity for feature 'performance ': ['AMD ']
+
+['Duron '] [] best ['design ']
+Preferred Entity for feature 'design ': ['Duron ']
+
+['Duron ', 'T-Bird '] ['Celeron '] four times as large ['cache ']
+Preferred Entity for feature 'cache ': ['Duron ', 'T-Bird ']
+
+['it '] ['T', 'PIII '] low as compared to []
+Preferred Entity: ['it ']
+
+['It '] ['all PCs '] twice as fast ['as fast as ']
+Preferred Entity for feature 'as fast as ': ['It ']
+
+['AMDK6-'] ['Pentium ', 'Pentium MMX ', 'Pentium II lines '] faster ['ran ']
+Preferred Entity for feature 'ran ': ['AMDK6-']
+
+['AMD Athlon '] ['Pentium processors '] outclassed []
+Preferred Entity: ['AMD Athlon ']
+
+['AMD '] [] better ['processor ']
+Preferred Entity for feature 'processor ': ['AMD ']
+
+['PC'] ['PC800 RDRAM '] faster []
+Preferred Entity: ['PC']
+
+['Athlon/K7 '] ["Intel 's P6 "] superior []
+Preferred Entity: ['Athlon/K7 ']
+
+['Athlon ', 'PIII '] [] go for ['hardcore gamer ']
+Preferred Entity for feature 'hardcore gamer ': ['Athlon ', 'PIII ']
+
+['Athlon '] [] winner []
+Preferred Entity: ['Athlon ']
+
+['Intel '] [] ruled the roost []
+Preferred Entity: ['Intel ']
+
+['MII '] ['6x86MX '] more ['cache ']
+Preferred Entity for feature 'cache ': ['MII ']
+
+['Intel pentium III Xeon '] [] best ['start a server ']
+Preferred Entity for feature 'start a server ': ['Intel pentium III Xeon ']
+
+['Athlon '] [] best ['performance ']
+Preferred Entity for feature 'performance ': ['Athlon ']
+
+['Coppermine at 9'] [' Athlon at 950 MHz with a '] cheaper []
+Preferred Entity: ['Coppermine at 9']
+
+
+['Celeron '] [] more ['costs ']
+Preferred Entity for feature 'costs ': ['Celeron ']
+
+['K6-'] [] more ['budget ']
+Preferred Entity for feature 'budget ': ['K6-']
+
+['Fetching data from main memory '] ['fetching data from Cache '] slower []
+Preferred Entity: ['fetching data from Cache ']
+
+['Intel '] [] latest ['technology ']
+Preferred Entity for feature 'technology ': ['Intel ']
+
+['P II ', 'Celeron machine '] [] lower ['cost ']
+Preferred Entity for feature 'cost ': ['P II ', 'Celeron machine ']
+
+['it '] ['P III '] cheaper []
+Preferred Entity: ['it ']
+
+['AMD '] [] faster ['chip ']
+Preferred Entity for feature 'chip ': ['AMD ']
+
+['Intel '] [] best ['chip ']
+Preferred Entity for feature 'chip ': ['Intel ']
+
+['Duron '] [] best ['price ']
+Preferred Entity for feature 'price ': ['Duron ']
+
+['Duron '] [] faster, cheaper ['upgrade-ability ']
+Preferred Entity for feature 'upgrade-ability ': ['Duron ']
+
+['They '] [] best ['grew up ']
+Preferred Entity for feature 'grew up ': ['They ']
+
+['AMD K6-'] ['Intel Pentium II '] lower []
+Preferred Entity: ['Intel Pentium II ']
+
+['Pentium '] [] faster, more ['ran ', 'expensive ']
+Preferred Entity for feature 'ran ': ['Pentium ']
+Preferred Entity for feature 'expensive ': ['Pentium ']
+
+['Intel '] [] best []
+Preferred Entity: ['Intel ']
+
+['boards '] [] better []
+Preferred Entity: ['boards ']
+
+['Amd '] [] top []
+Preferred Entity: ['Amd ']
+
+['Intel '] [] most ['power ']
+Preferred Entity for feature 'power ': ['Intel ']
+
+['chips '] [] better []
+Preferred Entity: ['chips ']
+
+['Pentium '] [] fastest ['chip ']
+Preferred Entity for feature 'chip ': ['Pentium ']
+
+['Advanced Micro Devices ( AMD ) '] [] leading ['dual core performance race ']
+Preferred Entity for feature 'dual core performance race ': ['Advanced Micro Devices ( AMD ) ']
+
+['Intel '] ['AMD '] beat []
+Preferred Entity: ['AMD ']
+
+['AMD '] ['Intel '] more ['costing ']
+Preferred Entity for feature 'costing ': ['AMD ']
+
+['AMD '] ['Intel 8'] more []
+Preferred Entity: ['Intel 8']
+
+['Manchester core ', 'it '] ['Toledo ', 'siblings '] fewer ['transistors ', 'die size ', 'thermal numbers ']
+Preferred Entity for feature 'transistors ': ['Manchester core ', 'it ']
+Preferred Entity for feature 'die size ': ['Manchester core ', 'it ']
+Preferred Entity for feature 'thermal numbers ': ['Manchester core ', 'it ']
+
+[] ['Pentium D 8'] more []
+Preferred Entity: ['Pentium D 8']
+
+['It '] ['old computer '] faster ['running ']
+Preferred Entity for feature 'running ': ['It ']
+
+['Reebok '] [] better ['shoe ']
+['Reebok ']is not preferred
+
+['AMD '] ['Intel '] before ['gigahertz chip ']
+Preferred Entity for feature 'gigahertz chip ': ['AMD ']
+
+['chips on the AMD line '] ['chips on the Intel line '] cheaper []
+Preferred Entity: ['chips on the AMD line ']
+
+['They '] [] cheaper []
+Preferred Entity: ['They ']
+
+['Intel chips '] [] superior []
+Preferred Entity: ['Intel chips ']
+
+['Athlon systems '] ['Intel '] better ['perform ']
+Preferred Entity for feature 'perform ': ['Athlon systems ']
+
+['AMD '] [] better ['motherboards ', 'product ']
+Preferred Entity for feature 'motherboards ': ['AMD ']
+['AMD ']is not preferred
+
+['it '] [] top []
+Preferred Entity: ['it ']
+
+['AMD chips '] [] most ['want ']
+Preferred Entity for feature 'want ': ['AMD chips ']
+
+['AMD Duron '] [] lowest ['priced ']
+Preferred Entity for feature 'priced ': ['AMD Duron ']
+
+['DURON '] ['PIV '] superior []
+Preferred Entity: ['DURON ']
+
+['Pentium series CPUs '] [] faster ['run ']
+Preferred Entity for feature 'run ': ['Pentium series CPUs ']
+
+['AMD '] [] more ['buy ']
+Preferred Entity for feature 'buy ': ['AMD ']
+
+['DDR memory '] [] cheaper []
+Preferred Entity: ['DDR memory ']
+
+['AMD '] [] cooler ['runs ']
+Preferred Entity for feature 'runs ': ['AMD ']
+
+['it '] ['Athlon ( '] beats ['benchmarks ']
+Preferred Entity for feature 'benchmarks ': ['it ']
+
+['Duron  '] [] wins []
+Preferred Entity: ['Duron  ']
+
+['Its '] [] cheaper, faster []
+Preferred Entity: ['Its ']
+
+['It '] ['Pentium 4 '] cheaper []
+Preferred Entity: ['It ']
+
+['Athlon  P4 ', 'Intel Pentium 4 '] [] go for []
+Preferred Entity: ['Athlon  P4 ', 'Intel Pentium 4 ']
+
+['They '] ['Itanium chips '] cheaper []
+Preferred Entity: ['They ']
+
+['AMD Athlon 4 processor '] [] win []
+Preferred Entity: ['AMD Athlon 4 processor ']
+
+['Athlon '] ['Pentium '] beats []
+Preferred Entity: ['Pentium ']
+
+
+['It '] [] more ['runs ']
+Preferred Entity for feature 'runs ': ['It ']
+
+['Pentium 4 '] [] larger ['clock speed ', 'Level ']
+Preferred Entity for feature 'clock speed ': ['Pentium 4 ']
+Preferred Entity for feature 'Level ': ['Pentium 4 ']
+
+['Intel '] [] faster []
+Preferred Entity: ['Intel ']
+
+['dual '] [] fastest ['machine ']
+Preferred Entity for feature 'machine ': ['dual ']
+
+["P4 `` twenty-two-hundred '' "] ['Athlon XP '] lead ['core clock ']
+Preferred Entity for feature 'core clock ': ["P4 `` twenty-two-hundred '' "]
+
+["80 mm\xc2\xb2 of 'Thoroughbred ' "] [] less []
+["80 mm\xc2\xb2 of 'Thoroughbred ' "]is not preferred
+
+['Pentium 4 platform '] [] best ['interests of end users ']
+Preferred Entity for feature 'interests of end users ': ['Pentium 4 platform ']
+
+['DDR-chipsets for Pentium 4 '] [] best ['solution ']
+Preferred Entity for feature 'solution ': ['DDR-chipsets for Pentium 4 ']
+
+['Pentium 4/'] ['AMD Athlon XP '] lead []
+Preferred Entity: ['Pentium 4/']
+
+['AMD Athlon XP '] [] top ['scores ']
+Preferred Entity for feature 'scores ': ['AMD Athlon XP ']
+
+['Pentium 4/'] ['Athlon XP '] lead []
+Preferred Entity: ['Pentium 4/']
+
+['Intel Pentium 4/'] ['AMD Athlon XP '] faster ['encoding an MPEG-']
+Preferred Entity for feature 'encoding an MPEG-': ['Intel Pentium 4/']
+
+['P4-chipset with DDR SDRAM support '] [] better []
+Preferred Entity: ['P4-chipset with DDR SDRAM support ']
+
+[] ['PS'] harder ['program ']
+['PS']is not preferred
+
+['Ryan Giggs '] [] closest ['catching him ']
+Preferred Entity for feature 'catching him ': ['Ryan Giggs ']
+
+['Eidur Gudjohnsen '] [] closest []
+Preferred Entity: ['Eidur Gudjohnsen ']
+
+['Shearer '] [] most ['striker ']
+Preferred Entity for feature 'striker ': ['Shearer ']
+
+['lower divisions '] [] easier ['record a higher goals tally ']
+Preferred Entity for feature 'record a higher goals tally ': ['lower divisions ']
+
+['Manchester United '] ['Arsenal '] only ['loyalty amongst their players ']
+Preferred Entity for feature 'loyalty amongst their players ': ['Manchester United ']
+
+['Google '] [] greater ['storage space ']
+Preferred Entity for feature 'storage space ': ['Google ']
+
+['Yahoo '] [] best ['service ']
+['Yahoo ']is not preferred
+
+['it '] [] first []
+['it ']is not preferred
+
+['United midfield led by inspirational captain Roy Keane in the season of '] [] best []
+Preferred Entity: ['United midfield led by inspirational captain Roy Keane in the season of ']
+
+['they '] ['United '] more ['talent in the midfield ']
+Preferred Entity for feature 'talent in the midfield ': ['they ']
+
+['Makelele ', 'Keane '] [] best ['players in their position ']
+Preferred Entity for feature 'players in their position ': ['Makelele ', 'Keane ']
+
+
+['south american football '] [] masters ['creating creative attacking midfielders ']
+Preferred Entity for feature 'creating creative attacking midfielders ': ['south american football ']
+
+['Man Utd '] ['chelsea '] better ['equivallent ']
+Preferred Entity for feature 'equivallent ': ['Man Utd ']
+
+['chelsea '] [] best ['midfield ']
+Preferred Entity for feature 'midfield ': ['chelsea ']
+
+
+['chelsea '] [] better ['side ']
+['chelsea ']is not preferred
+
+['MU '] [] best ['attacking midfielder in Scholes ', 'dribbler in Giggs ', 'crosser in Beckham ', 'holder in Keane ']
+Preferred Entity for feature 'attacking midfielder in Scholes ': ['MU ']
+Preferred Entity for feature 'dribbler in Giggs ': ['MU ']
+Preferred Entity for feature 'crosser in Beckham ': ['MU ']
+Preferred Entity for feature 'holder in Keane ': ['MU ']
+
+['Scholes '] [] only one ['heading in goals from crosses ']
+Preferred Entity for feature 'heading in goals from crosses ': ['Scholes ']
+
+['4-4-'] [] best ['formation ']
+Preferred Entity for feature 'formation ': ['4-4-']
+
+
+['Man Utd '] ['Chelsea '] win []
+Preferred Entity: ['Man Utd ']
+
+['chelsea '] [] best []
+Preferred Entity: ['chelsea ']
+
+['juventus ', 'chelsea '] [] strongest ['teams ']
+Preferred Entity for feature 'teams ': ['juventus ', 'chelsea ']
+
+['Lampard '] ['Pirlo '] closer []
+Preferred Entity: ['Lampard ']
+
+['arsenal '] ['chelsea '] better ['team ']
+Preferred Entity for feature 'team ': ['arsenal ']
+
+['chelsea '] [] bigger ['squad for rotation ']
+Preferred Entity for feature 'squad for rotation ': ['chelsea ']
+
+['United '] [] stronger ['midfield ']
+Preferred Entity for feature 'midfield ': ['United ']
+
+['Rooney ', 'Ronaldo '] [] best ['box strikers ']
+Preferred Entity for feature 'box strikers ': ['Rooney ', 'Ronaldo ']
+
+['They '] [] best []
+Preferred Entity: ['They ']
+
+['United '] ['Chelsea '] better ['players ']
+Preferred Entity for feature 'players ': ['United ']
+
+['Man Utd '] ['chelsea '] better ['squad ']
+Preferred Entity for feature 'squad ': ['Man Utd ']
+
+['Their '] [] superior ['passing model ']
+Preferred Entity for feature 'passing model ': ['Their ']
+
+['Madrid '] [] richest ['club ']
+Preferred Entity for feature 'club ': ['Madrid ']
+
+['Chelsea '] [] best []
+Preferred Entity: ['Chelsea ']
+
+['Rafael Van Der Vaart '] [] excellent []
+Preferred Entity: ['Rafael Van Der Vaart ']
+
+['Man Utd '] [] best ['club ']
+Preferred Entity for feature 'club ': ['Man Utd ']
+
+['They '] [] best []
+Preferred Entity: ['They ']
+
+['Arsenal '] ['Man United '] closer ['closer to Chelsea ']
+Preferred Entity for feature 'closer to Chelsea ': ['Arsenal ']
+
+['Juninho '] [] fantastic choice []
+Preferred Entity: ['Juninho ']
+
+['Pepsi '] ['Coke '] better ['value ']
+Preferred Entity for feature 'value ': ['Coke ']
+
+['Pepsi '] [] higher []
+Preferred Entity: ['Pepsi ']
+
+['Coke '] [] leader ['market share ']
+Preferred Entity for feature 'market share ': ['Coke ']
+
+['Cott '] ['Pepsi ', 'Coke '] better ['growh prospects ']
+Preferred Entity for feature 'growh prospects ': ['Cott ']
+
+['PepsiCo '] [] more ['advertising campaign ', 'room to grow internationally ', 'down-to-earth valuation ']
+Preferred Entity for feature 'advertising campaign ': ['PepsiCo ']
+Preferred Entity for feature 'room to grow internationally ': ['PepsiCo ']
+Preferred Entity for feature 'down-to-earth valuation ': ['PepsiCo ']
+
+['Coca-Cola '] [] leader ['beverages ']
+Preferred Entity for feature 'beverages ': ['Coca-Cola ']
+
+
+['Their commercials '] [] most ['innovative ']
+Preferred Entity for feature 'innovative ': ['Their commercials ']
+
+['U.S. '] [] closer ['race between Coke and Pepsi ']
+Preferred Entity for feature 'race between Coke and Pepsi ': ['U.S. ']
+
+['Coke '] [] lead []
+Preferred Entity: ['Coke ']
+
+['Coke '] [] winning ['soft-drink business at Subway ']
+Preferred Entity for feature 'soft-drink business at Subway ': ['Coke ']
+
+['Pepsi '] [] first ['Western product to be sold to consumers in Russia ']
+Preferred Entity for feature 'Western product to be sold to consumers in Russia ': ['Pepsi ']
+
+['Pepsi '] [] leader ['soft-drink industry in Russia ']
+Preferred Entity for feature 'soft-drink industry in Russia ': ['Pepsi ']
+
+['Pepsi '] ['Coca-Cola '] leading []
+Preferred Entity: ['Pepsi ']
+
+['Pepsi '] [] first ['U.S . product produced and sold in the region ']
+Preferred Entity for feature 'U.S . product produced and sold in the region ': ['Pepsi ']
+
+['Pepsi '] ['Coca-Cola '] sweeter []
+Preferred Entity: ['Pepsi ']
+
+['These factories '] ['factory Pepsi has in Bucharest '] double the size ['size ']
+Preferred Entity for feature 'size ': ['These factories ']
+
+['beer '] ['soft-drinks '] exceeds ['Per capita consumption ']
+Preferred Entity for feature 'Per capita consumption ': ['beer ']
+
+['Coke '] ['Pepsi ', 'locally produced colas '] twice ['price ']
+Preferred Entity for feature 'price ': ['Coke ']
+
+['Pepsi '] [] lead []
+Preferred Entity: ['Pepsi ']
+
+['Pepsi '] [] greater ['control over distribution and quality ']
+Preferred Entity for feature 'control over distribution and quality ': ['Pepsi ']
+
+['Coca-Cola '] ['Pepsi '] lead []
+Preferred Entity: ['Coca-Cola ']
+
+['Poland '] [] biggest ['consumer market ']
+Preferred Entity for feature 'consumer market ': ['Poland ']
+
+
+['Pepsi '] [] lead []
+Preferred Entity: ['Pepsi ']
+
+['Mexico '] [] only ['make this claim ']
+Preferred Entity for feature 'make this claim ': ['Mexico ']
+
+['Gemex '] [] largest ['Pepsi bottler outside the United States ']
+Preferred Entity for feature 'Pepsi bottler outside the United States ': ['Gemex ']
+
+['Pepsi '] [] leading ['doft-drink producer ']
+Preferred Entity for feature 'doft-drink producer ': ['Pepsi ']
+
+['China '] [] easier, safer ['expand ']
+Preferred Entity for feature 'expand ': ['China ']
+
+['Pepsi '] [] leader []
+Preferred Entity: ['Pepsi ']
+
+['Saudi Arabia '] [] most ['valuable market ']
+Preferred Entity for feature 'valuable market ': ['Saudi Arabia ']
+
+['Pepsi '] ['Coke '] lighter ['taste ']
+Preferred Entity for feature 'taste ': ['Pepsi ']
+
+['it '] [] better []
+Preferred Entity: ['it ']
+
+['Pepsi '] [] loses []
+['Pepsi ']is not preferred
+
+['Coke '] [] wins []
+Preferred Entity: ['Coke ']
+
+['Coke '] ['Pepsi '] wins []
+Preferred Entity: ['Coke ']
+
+['Pepsi '] ['Coke '] wins []
+Preferred Entity: ['Pepsi ']
+
+
+['Pepsi ', '7-Up '] ['Sprite '] wins []
+Preferred Entity: ['Pepsi ', '7-Up ']
+
+['Gatorade '] ['powerade '] better []
+Preferred Entity: ['Gatorade ']
+
+['Minute-Made '] [] best []
+Preferred Entity: ['Minute-Made ']
+
+['Coke '] [] wins ['battle ']
+Preferred Entity for feature 'battle ': ['Coke ']
+
+['it '] [] better ['tastes ']
+Preferred Entity for feature 'tastes ': ['it ']
+
+[] ['last Fuji camera '] toned down ['Photo Mode menu ']
+['last Fuji camera ']is not preferred
+
+['this '] [] first ['SuperCCD HR-based camera ']
+Preferred Entity for feature 'SuperCCD HR-based camera ': ['this ']
+
+['F'] ['H'] beats []
+Preferred Entity: ['H']
+
+['It '] ['GM '] better ['kickdown lag ']
+Preferred Entity for feature 'kickdown lag ': ['It ']
+
+['H'] ['H'] improves ['interior ']
+Preferred Entity for feature 'interior ': ['H']
+
+['This '] ['H'] simpler ['solution ']
+Preferred Entity for feature 'solution ': ['This ']
+
+['H'] [] more ['versatile ']
+Preferred Entity for feature 'versatile ': ['H']
+
+['new H'] ['H', 'H'] like ['fuel-efficient package ']
+Preferred Entity for feature 'fuel-efficient package ': ['new H']
+
+['H'] ['H'] shorter []
+Preferred Entity: ['H']
+
+['Its '] [] lower ['height ']
+Preferred Entity for feature 'height ': ['Its ']
+
+['SD500 '] [] best ['choice ']
+Preferred Entity for feature 'choice ': ['SD500 ']
+
+['Z750 '] [] choose ['manual controls ', 'ability to tweak camera settings ']
+Preferred Entity for feature 'manual controls ': ['Z750 ']
+Preferred Entity for feature 'ability to tweak camera settings ': ['Z750 ']
+
+['SD500 '] ['Z750 '] more ['flash ']
+Preferred Entity for feature 'flash ': ['Z750 ']
+
+['Z750 '] [] wins ['battery life ']
+['Z750 ']is not preferred
+
+['HP '] ['online retailer '] more ['charhe ']
+Preferred Entity for feature 'charhe ': ['HP ']
+
+['L', 'V'] ['V'] louder, more ['Fan noise ']
+Preferred Entity for feature 'Fan noise ': ['L', 'V']
+
+['Compaq V'] ['three laptops '] stands out []
+Preferred Entity: ['Compaq V']
+
+['AMD based notebooks '] [] cheaper []
+Preferred Entity: ['AMD based notebooks ']
+
+['Cony ', 'IBM '] [] pricier ['offerings ']
+Preferred Entity for feature 'offerings ': ['Cony ', 'IBM ']
+
+['Intel '] [] winner ['mobile CPUs ']
+Preferred Entity for feature 'mobile CPUs ': ['Intel ']
+
+['Acer TravelMate 8'] ['TravelMate 8000 '] advantages []
+Preferred Entity: ['TravelMate 8000 ']
+
+['8'] [] more ['working on documents ']
+Preferred Entity for feature 'working on documents ': ['8']
+
+['Inspiron 6000 '] ['some '] more ['resolution photographs ', 'spreadsheet columns ', 'tiled documents ']
+Preferred Entity for feature 'resolution photographs ': ['Inspiron 6000 ']
+Preferred Entity for feature 'spreadsheet columns ': ['Inspiron 6000 ']
+Preferred Entity for feature 'tiled documents ': ['Inspiron 6000 ']
+
+[] ['systems equipped with the same processor '] above average [' WorldBench 5 score ']
+['systems equipped with the same processor ']is not preferred
+
+["M7500's battery "] [] shorter []
+["M7500's battery "]is not preferred
+
+["dv4000's "] ['portables '] better []
+Preferred Entity: ["dv4000's "]
+
+['iP4'] ['Canon models '] less ['silver plastic case ']
+Preferred Entity for feature 'silver plastic case ': ['iP4']
+
+['iP4'] [] best ['speed numbers ']
+Preferred Entity for feature 'speed numbers ': ['iP4']
+
+
+['Portable printers '] ['desk-bound counterparts '] more ['cost ']
+Preferred Entity for feature 'cost ': ['desk-bound counterparts ']
+
+['Deskjet 450wbt '] [] slower ['operated ']
+Preferred Entity for feature 'operated ': ['Deskjet 450wbt ']
+
+
+[] ['other HP printers '] sharper ['Text ']
+['other HP printers ']is not preferred
+
+['the printer '] [] better ['performed ']
+Preferred Entity for feature 'performed ': ['the printer ']
+
+['HP Deskjet 5440 '] [] least ['expensive ']
+Preferred Entity for feature 'expensive ': ['HP Deskjet 5440 ']
+
+['5440 '] [] only ['printer ']
+Preferred Entity for feature 'printer ': ['5440 ']
+
+['It '] ['5940 '] sharper ['text and line art ']
+Preferred Entity for feature 'text and line art ': ['It ']
+
+['HP Deskjet 5940 '] ['HP Deskjet 5440 '] more ['metal cover ', 'costs ']
+Preferred Entity for feature 'metal cover ': ['HP Deskjet 5940 ']
+Preferred Entity for feature 'costs ': ['HP Deskjet 5440 ']
+
+['extra $'] [] better, greater ['productive capacity ']
+Preferred Entity for feature 'productive capacity ': ['extra $']
+
+['5940 '] ['Both models '] larger ['cartidges ']
+Preferred Entity for feature 'cartidges ': ['5940 ']
+
+
+['this '] [] best ['contrast ratio ']
+Preferred Entity for feature 'contrast ratio ': ['this ']
+
+['That '] ['DLP front projector'] better []
+Preferred Entity: ['That ']
+
+['This '] [] first ["product with contrast ratio that exceeds the manufacturer's numbers "]
+Preferred Entity for feature 'product with contrast ratio that exceeds the manufacturer's numbers ': ['This ']
+
+['The current 60GB model '] ['older '] slimmer []
+Preferred Entity: ['older ']
+
+
+
+['MobiBlu DAH-'] ['Mixx '] better ['choices ']
+Preferred Entity for feature 'choices ': ['MobiBlu DAH-']
+
+['MSI Mega Player 5'] [] better ['choice ']
+Preferred Entity for feature 'choice ': ['MSI Mega Player 5']
+
+['DAH-'] [] unique ['headphone jack ']
+Preferred Entity for feature 'headphone jack ': ['DAH-']
+
+['it '] [] most ['choice ']
+Preferred Entity for feature 'choice ': ['it ']
+
+['76-by-'] ['iPod mini '] smaller []
+Preferred Entity: ['iPod mini ']
+
+
+
+[] ['Chevrolet TrailBlazer ', 'Ford Explorer '] larger ['turning diameter ']
+['Chevrolet TrailBlazer ', 'Ford Explorer ']is not preferred
+
+['it '] ['tough-guy exterior let on '] more ['refined ']
+Preferred Entity for feature 'refined ': ['it ']
+
+['It '] ['Chubby Checker '] more ['twist ']
+Preferred Entity for feature 'twist ': ['It ']
+
+['old menu  '] [] better []
+Preferred Entity: ['old menu  ']
+
+
+['it '] ['camera '] more []
+Preferred Entity: ['camera ']
+
+
+['SD500 '] [] wins ['continuous shooting performance ']
+Preferred Entity for feature 'continuous shooting performance ': ['SD500 ']
+
+['Turion '] [] better []
+Preferred Entity: ['Turion ']
+
+['L'] [] winner ['aesthetics ']
+Preferred Entity for feature 'aesthetics ': ['L']
+
+['APU is maxed '] [] less ['battery life ']
+Preferred Entity for feature 'battery life ': ['APU is maxed ']
+
+['Intel setup '] [] win ['performance numbers ']
+Preferred Entity for feature 'performance numbers ': ['Intel setup ']
+
+
+['8'] [] improvement []
+Preferred Entity: ['8']
+
+['8'] ['8000 '] lower ['battery life ']
+Preferred Entity for feature 'battery life ': ['8000 ']
+
+['8'] ['sibling '] better []
+Preferred Entity: ['8']
+
+["Dell Inspiron 6000's wide screen "] [] most ['see  ']
+Preferred Entity for feature 'see  ': ["Dell Inspiron 6000's wide screen "]
+
+['M7500 '] [] first ['front USB ']
+Preferred Entity for feature 'front USB ': ['M7500 ']
+
+['screen '] [] most ['readable ']
+Preferred Entity for feature 'readable ': ['screen ']
+
+['iP4'] ['iP4000 '] improved ['plain-paper output ']
+Preferred Entity for feature 'plain-paper output ': ['iP4']
+
+['pigment-based black ink '] [] larger ['cartridge ']
+Preferred Entity for feature 'cartridge ': ['pigment-based black ink ']
+
+['They '] ['other displays '] more ['expensive ', 'aesthetic ', 'performance ']
+Preferred Entity for feature 'expensive ': ['other displays ']
+Preferred Entity for feature 'aesthetic ': ['They ']
+Preferred Entity for feature 'performance ': ['They ']
+
+['chip '] [] smaller ['diplay ']
+Preferred Entity for feature 'diplay ': ['chip ']
+
+['56DR650 '] [] one of the ['attractive rear-projection sets ']
+Preferred Entity for feature 'attractive rear-projection sets ': ['56DR650 ']
+
+['0.08 ft-L I '] ['LCD flat panels '] most []
+Preferred Entity: ['0.08 ft-L I ']
+
+["new model's "] ['previous generations'] more ['profile ', 'versatile ']
+Preferred Entity for feature 'profile ': ["new model's "]
+Preferred Entity for feature 'versatile ': ["new model's "]
+
+['new '] ['previous '] thinner []
+Preferred Entity: ['previous ']
+
+['bigger screen '] [] more ['see photos ']
+Preferred Entity for feature 'see photos ': ['bigger screen ']
+
+
+['it '] ['MSI Mega Player 5', 'RCA Lyra RD'] heavier []
+Preferred Entity: ['it ']
+
+['T'] [] most ['frequency response ']
+Preferred Entity for feature 'frequency response ': ['T']
+
+['DAH-'] ['iPod shuffle '] lighter ['weighs ']
+Preferred Entity for feature 'weighs ': ['DAH-']
+
+['nano '] ['iPod mini '] smaller []
+Preferred Entity: ['iPod mini ']
+
+['iPod nano '] ['60GB iPod mini '] outperformed ['signal ', 'response ']
+Preferred Entity for feature 'signal ': ['iPod nano ']
+Preferred Entity for feature 'response ': ['iPod nano ']
+
+[] ['mini '] stronger ['output state ']
+['mini ']is not preferred
+

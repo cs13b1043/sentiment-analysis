@@ -1,0 +1,12 @@
+<name>Audiovox HDTVi for HDTV (034405002222)</name>
+<cons>Bulky, strange looking.</cons>
+<cons>Base small, requires power even when amplification off, switch inconvenient location, no coaxial connection, pricey.</cons>
+<cons>A slightly unstable base. I have mine on the floor: no problems.</cons>
+<cons>Very difficult to stand up on it's own.</cons>
+<cons>Size bigger than expected/used to.</cons>
+<name>Conair TAD 1212W Digital Answering Machine</name>
+<cons>Requires a 9 volt battery, a little fuzzy with recordings.</cons>
+<name>Nikon NIKKOR 24-120mm f/4 AS G SWM AF-S VR IF N M/A ED Lens</name>
+<cons>Hilariously expensive for slow glass, big and heavy, not the sharpest at the longer end</cons>
+<name>Sennheiser HD 598 Headband Headphones - Brown</name>
+<cons>Construction, styling/color may be gaudy for some, little isolation (if you need it)</cons>

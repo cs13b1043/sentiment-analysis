@@ -1,0 +1,1191 @@
+<name>Canon PowerShot SX30 IS 14.1 MP Digital Camera - Black</name>
+<cons><b> </b></cons>
+<cons>High price</cons>
+<cons>Cannot force flash in Auto mode. </cons>
+<cons>Image stabilizer needs some improvement onmax zoom</cons>
+<cons>It is fragile and if it drops.... ITS BROKEN!!</cons>
+<name>Canon PowerShot Digital ELPH SD4000 IS / IXUS 300 HS 10.0 MP Digital Camera - Silver</name>
+<cons>Mediocre battery life, weak flash, red-eye problems, chromatic aberration, and noisy ISO 400 images</cons>
+<cons>No manual control, flash leaves shadow in corner upclose in macro mode, no battery status</cons>
+<cons>Port covers feel flimsy (although they haven't broken), movie sound is low quality.</cons>
+<cons>weak flash, red eye problems (as with most ultra-compact), portrait scene mode is poor</cons>
+<cons>The battery-life is not the greatest and the red-eye reduction doesn?t work very well</cons>
+<name>Panasonic LUMIX DMC-G3W 16.0 MP Digital Camera - Brown (Kit w/ ASPH 14-42mm and 45-200mm Lenses) (Japanese Version)</name>
+<cons>Battery life is merely acceptable</cons>
+<cons>short battery life</cons>
+<name>Olympus Tough TG-830 iHS 16.0 MP Digital Camera - Blue (Latest Model)</name>
+<cons>short battery life and pictures with soft edges</cons>
+<name>Nikon D D3100 14.2 MP Digital SLR Camera - Black (Kit w/ AF-S DX VR 18-55mm Lens)</name>
+<cons>-Full HD video recording for only 10 minutes and limited zooming capabilities.</cons>
+<cons>Must have an SD card and lacks in zoom capabilities.</cons>
+<cons>Short battery life, Must have SD card to use.</cons>
+<cons>At very low light levels, images start to show slight noise.</cons>
+<cons>none</cons>
+<name>Nikon COOLPIX S8100 12.1 MP Digital Camera - Black</name>
+<cons>Occasional soft focus in photos; lots of focus hunting with video; modest battery life</cons>
+<cons>Lens defect may cause it to get stuck, pop-up flash gets in way.</cons>
+<cons>None</cons>
+<cons>Focus hunting, especially with video. Low light picture quality.</cons>
+<cons>lens error and additional cost to fix</cons>
+<name>Fujifilm FinePix A Series AX550 16.0 MP Digital Camera - Black</name>
+<cons>none</cons>
+<cons>The battery does not seem to hold charge for very long.</cons>
+<name>Canon EOS Rebel T4i Body Only Digital Camera</name>
+<cons>canon wants YOU to pay for THEIR faulty software</cons>
+<name>Nikon S30 Digital Camera</name>
+<cons>Forgets all your settings when turned off. Autoflash mode will infuriate you.</cons>
+<name>Samsung ST Series ST500 12.2 MP Digital Camera - Blue</name>
+<cons>-Short battery life</cons>
+<name>Panasonic LUMIX DMC-ZR1/DMC-ZX1 12.1 MP Digital Camera - Black</name>
+<cons>No HDMI out.</cons>
+<cons>Sound playback quality</cons>
+<cons>USB-out only connection option</cons>
+<cons>Viewing of screen in sunlight.</cons>
+<cons>Internal electronics failed on 2 cameras after brief use.</cons>
+<name>Canon 18.0 MP</name>
+<cons>not the latest model</cons>
+<cons>The battery life can be iffy. Once it starts to go dead, it goes quickly.</cons>
+<cons>poor service whe you have a prob with their merc</cons>
+<name>Polaroid I1437 14.0 MP Digital Camera - Titanium</name>
+<cons>Camera hesitation when taking a picture</cons>
+<cons>none at all</cons>
+<name>HP PhotoSmart PW460T 12.2 MP Digital Camera - Blue</name>
+<cons>- Low lighting shots not reliable. Faint clicking sound when focusing.</cons>
+<cons><b>The Power Cord used to charge the battery is sold separately</b></cons>
+<cons>not too much to complain about</cons>
+<cons>there are no cons to this camera. It is perfect :) <3</cons>
+<name>Argus DC2000 0.3 MP Digital Camera - Silver</name>
+<cons>bad picture quality, slow and unreliable photo upload.</cons>
+<cons>very light sensitive, low quality pics</cons>
+<cons>Washouts with bright sunlight</cons>
+<cons>Need a HUGE amount of light to take good pictures.</cons>
+<name>Sony SLT-A55V Digital Camera</name>
+<cons>Somewhat disappointed in lowest apperature # with standard lenses.</cons>
+<name>Canon PowerShot SX160 IS 16.0 MP Digital Camera - Black (6354B001)</name>
+<cons>If I read correctly the apature doesn't open as large as the SX 150 IS.</cons>
+<cons>the battery is die fast you need to take extra batteries</cons>
+<cons>eventually defective software will disable the unit</cons>
+<name>Fujifilm FinePix S Series S2940 14.0 MP Digital Camera - Black (S2940)</name>
+<cons>Many blurred photos</cons>
+<cons>It takes sharp pictures </cons>
+<name>Largan Group 351 0.4 MP Digital Camera - Silver</name>
+<cons>NOT GOOD FOR REAL DETAILED PICTURES.</cons>
+<cons>Horrible output, short battery life, worthless flash</cons>
+<name>Kodak EasyShare C1530 14.0 MP Digital Camera - Red</name>
+<cons>If you like devices with integrated battery and integrated memory this is not your device!!</cons>
+<name>Kodak EasyShare Z5010 14.0 MP Digital Camera - Black</name>
+<cons>Share is not instant</cons>
+<name>JVC GC QX3U 3.3 MP Digital Camera</name>
+<cons>It is expensive because it is a relative novelty, and do not get it wet.</cons>
+<cons>Very poor battery performance</cons>
+<cons>Extremely complicated controls and settings; Instruction manual VERY poorly written; Maybe it's an experimental model.</cons>
+<cons>Proprietary battery, short battery life, menus difficult to get around</cons>
+<cons>The worst of all digital cameras in 3.3 Megapixel</cons>
+<name>GE Power Pro Series X500 16.0 MP Digital Camera - Black</name>
+<cons>Ugly lens when in zoom</cons>
+<cons>really really poor battery life 10 picks to a set of hi quality batterys.</cons>
+<cons>Panoramic difficult.</cons>
+<name>Fujifilm XP55 14.4 MP - Blue</name>
+<cons>Lense does not have protective cover so use camera pouch</cons>
+<name>Sony Cyber-shot DSC-W620 14.1 MP Digital Camera - Black (Kit w/ Not Applicable Lens)</name>
+<cons>Lag</cons>
+<name>Kodak DC200 Zoom 1.0 MP Digital Camera - Silver</name>
+<cons>Photo quality, included software, battery life, no case, slow picture transfer to computer, no zoom</cons>
+<cons>needs zoom</cons>
+<cons>Battery meter stinks, if you do use the screen batteries go fast, no zoom</cons>
+<cons>Eats batteries like a kid in a candy store, noseprints, slow software</cons>
+<cons>uses batteries fast</cons>
+<name>Fujifilm FinePix J Series J40 12.2 MP Digital Camera - Black</name>
+<cons>Mediocre indoor photo quality</cons>
+<name>Canon PowerShot ELPH 130 IS / IXUS 140 16.0 MP Digital Camera - Silver</name>
+<cons>The picture quality can be blury and very granny</cons>
+<name>GE Power Pro Series X400 14.0 MP Digital Camera - Black</name>
+<cons>No EVF</cons>
+<cons>CD instead of a paper Users Manual. Creates a .thm file for every picture.</cons>
+<name>Nikon COOLPIX S80 14.1 MP Digital Camera - Pink</name>
+<cons>lags when you hit the capture button and to lighten up the screen.</cons>
+<cons>Short BatteryRandomly blanks outSometimes it freezes</cons>
+<name>Sony Alpha NEX-5N 16.1 MP Digital Camera - Black (Body Only) (NEX-5N/B)</name>
+<cons>desaian not good and too heavy</cons>
+<name>Olympus SP Series SP-610UZ 14.0 MP Digital Camera - Black (228046)</name>
+<cons>Lesser quality screen than rivals.Plasticy navigation wheel.</cons>
+<name>Panasonic CoolShot KXL-601A 0.3 MP Digital Camera - Silver</name>
+<cons>Old technology, no flash, low resolution</cons>
+<name>Fujifilm FinePix XP Series XP20 14.2 MP Digital Camera - Black</name>
+<cons>The only con I can think of is, it is a little slippery.</cons>
+<cons>Picture quality isn't that great, viewfinder in sunlight is bad.</cons>
+<name>Sony Cyber-shot DSC-H70 16.1 MP Digital Camera - Blue</name>
+<cons>Special battery</cons>
+<name>Canon PowerShot IXUS 500 HS / ELPH 520 HS Digital Camera</name>
+<cons>Difficult to navigate, average battery life.</cons>
+<name>Sony Mavica MVC-FD95 2.1 MP Digital Camera - Black & Metallic gray</name>
+<cons>Can not get to many pictures on one floppy.</cons>
+<cons>None</cons>
+<cons>very, very, expensive</cons>
+<cons>A bit bulky. High compression of images causes some loss of quality.</cons>
+<cons>A bit expensive</cons>
+<name>Fujifilm FinePix XP Series XP60 16.4 MP Digital Camera - Black</name>
+<cons>Poor video focusing</cons>
+<name>Fujifilm Z70 12.2 MP - Pink</name>
+<cons>ok optical zoom, not much internal photo space, some blurry pictures</cons>
+<cons>Sometimes I get blury pictures.</cons>
+<name>Nikon COOLPIX AW100 16.0 MP Digital Camera - Black</name>
+<cons>So many features that I can't remember them all. Viewer scratches.</cons>
+<cons>no view finder, poor battery reporting, LCD screen scratches easily</cons>
+<cons>Price</cons>
+<cons>for night use the flash itsn't the greatest. the metering on it kinda' sucks.</cons>
+<name>Panasonic LUMIX DMC-GF3X 12.1 MP Digital Camera - Black (Kit w/ VARIO X ASPH 14-42mm Lens)</name>
+<cons>Slow in low light</cons>
+<name>Sanyo VPC Z380 1.3 MP Digital Camera - Silver</name>
+<cons>Drains batteries fast with LCD monitor.</cons>
+<name>Leica X 2 16.1 MP Digital Camera - Black</name>
+<cons>2006-tech LCD, no built-in viewfinder, VERY overpriced</cons>
+<cons>There are many buttons on the camera that are confusing.</cons>
+<name>Canon PowerShot A2400 IS 16.0 MP Digital Camera - Black (A2400IS)</name>
+<cons>For the filming option, you can only make videos at HD 720. Short battery life.</cons>
+<name>Vivitar ViviCam T026 12.0 MP Digital Camera - Black</name>
+<cons>No macro function.</cons>
+<name>Canon 19.0 MP</name>
+<cons>heavy</cons>
+<cons>none</cons>
+<name>Olympus CAMEDIA C-3000 Zoom 3.3 MP Digital Camera</name>
+<cons>Viewfinder only shows 80 per cent of the picture area</cons>
+<cons>A little difficult to learn.</cons>
+<cons>When turning it on you have to wait for the lens to come out!</cons>
+<cons>Pricey! Camera should come with more than a 8MB memory card. AC adapter NOT included.</cons>
+<cons>Requires time to learn using all the functions</cons>
+<name>Olympus Stylus SP-810UZ 14.0 MP Digital Camera - Black (V103020BU000)</name>
+<cons>Would love to be able to have more control of manual settings</cons>
+<cons>charger and cable make it a bit cumbersome to deal with</cons>
+<name>Kodak DC DC210 1.1 MP Digital Camera - Silver</name>
+<cons>No built-in lens cover, too big to fit in coat pocket</cons>
+<cons>Not much thought went into the design of this thing</cons>
+<cons>Wished I had gotten more powerful zoom.</cons>
+<cons>Slow serial transfer, short battery life.</cons>
+<cons>slow upload without the card reader</cons>
+<name>Sony Cyber-shot DSC-W510 12.1 MP Digital Camera - Red</name>
+<cons>Poor picture quality, lack of control</cons>
+<cons>not as advanced as many other cameras</cons>
+<name>Fujifilm Fisher-Price Kid-Tough S2950 14.0 MP Digital Camera - Black</name>
+<cons>It takes sharp pictures _only_ when set under 200 ISO, making the zoom useless.</cons>
+<cons>Compromise with photo size for ISO 6400. With flash batteries won't last long.</cons>
+<name>PENTAX Pentax K K-r 12.4 MP Digital SLR Camera - Black (Kit w/ 18-55mm and 50-200mm Lenses)</name>
+<cons>Can be complicated for a newbie like this Potato Head.</cons>
+<name>Canon EOS 60D 18.0 MP Digital SLR Camera - Black (Kit w/ EF-S IS 18-200mm Lens)</name>
+<cons>Will not fair well under harsher weather conditions; ergonomics an issue in certain areas</cons>
+<cons>-I dont have any cons:)</cons>
+<cons>light weight</cons>
+<name>Nikon D D7000 16.2 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>1080p video limited to 24fps, limited buffer size, sluggish video AF.</cons>
+<cons>None, really, unless you think the price is too high for this kind of camera.</cons>
+<cons>proprietary battery and charger,12 frame Buffer limit, no sync</cons>
+<cons>- The resolution could be better I think</cons>
+<cons>Expensive to watch over. You need to study the manual carefully.</cons>
+<name>Pioneer Research DC 600 6.1 MP Digital Camera - Black (SL 165)</name>
+<cons>Very few. It took me about an hour to figure out all the features.</cons>
+<cons>The tech support for the DC-600 is terrible!</cons>
+<cons>None</cons>
+<cons>MAYBE TOO FEW DISTRIBUTION OUTLETS. MORE PRODUCTS AND PRICE RANGES TO CHOOSE FROM.</cons>
+<cons>don't loan it...</cons>
+<name>Fujifilm 1300 1.3 MP Digital Camera</name>
+<cons>No lens cover</cons>
+<cons>Slow turn-on/storage times, no optical zoom, short battery life</cons>
+<cons>Really sucks up batteries, but what digital camera doesn't, digital rather than optical zoom.</cons>
+<cons>No true zoom feature, less options for more advanced users</cons>
+<cons>This camera is slow to turn on, and does not have a very impressive zoom</cons>
+<name>Fujifilm FinePix F Series F550EXR 16.0 MP Digital Camera - Black (F550EXR)</name>
+<cons>lots and lots of featureslong learning curvemediocre low light performance</cons>
+<cons>Continuous mode could be better. Size could be a bit smaller.</cons>
+<name>Samsung PL Series PL210 14.2 MP Digital Camera - Silver</name>
+<cons>battery life is not good</cons>
+<name>Kodak EasyShare M583 14.0 MP Digital Camera - Black</name>
+<cons>Camera Freezes up.</cons>
+<cons>Pics are horrible, the camera freezes, easy share does not work half the time.</cons>
+<name>Casio EXILIM CARD EX-S8 12.1 MP Digital Camera - Black</name>
+<cons>Image quality poor for indoor photo where subject is a distance away.</cons>
+<name>PENTAX Pentax Optio RS1500 14.0 MP Digital Camera - Silver</name>
+<cons>Battery charging; soft focus; slightly complex user interface</cons>
+<name>Kodak EasyShare C180 10.2 MP Digital Camera - Red</name>
+<cons>Can get lost easily because of its size.</cons>
+<cons>Stopped working after LESS than ONE DAY.A Piece O' Junk.</cons>
+<cons>Quality issues? (failure rate)</cons>
+<cons>:)</cons>
+<name>Polaroid PhotoMAX FUN 320 0.1 MP Digital Camera - Silver</name>
+<cons>Poor picture quality. No flash. Low aperture. No Zoom...and more.</cons>
+<cons>Doesn't work, poor resolution, fuzzy pictures, you name it.</cons>
+<cons>Cheap</cons>
+<cons>Flimsy, plastic, poor indoor shots, no usb</cons>
+<cons>HIDEOUS picture quality, no flash, small memory capacity (18-24 pictures), slow downloads to computer</cons>
+<name>Kodak EasyShare C195 14.0 MP Digital Camera - Silver</name>
+<cons>Battery Life. Shutter Lag. Washed out pictures. Zoom.</cons>
+<cons>Sound is hard to turn on and off</cons>
+<cons>Batteries/battery life, small memory capacity.</cons>
+<cons>Kodak camera is super easy to use, and it takes very professional photographs.</cons>
+<name>Canon PowerShot ELPH 300 HS / IXUS 220 HS 12.1 MP Digital Camera - Silver (5095B001)</name>
+<cons>Expensive and grainy lo-res LCD</cons>
+<cons>no shutter or aperture in manual mode, flash awkward location easily blocked by finger</cons>
+<cons>You may want to invest in another memory card.</cons>
+<cons>Does not always focus on people in auto setting. Can not combine 2 features</cons>
+<cons>Sometimes the shake button doesn't come into affect and pictures come out blurry.</cons>
+<name>Sony Cyber-shot DSC-WX9 16.2 MP Digital Camera - Black</name>
+<cons>Little lag and the screen is 2D.</cons>
+<cons>little built-in memory, no case, tiny buttons</cons>
+<cons>I didn't like its charger</cons>
+<cons>None</cons>
+<cons>Battery is not so good</cons>
+<name>Canon PowerShot SX50 HS 12.1 MP Digital Camera - Black</name>
+<cons>soft telephoto images, expensive </cons>
+<cons>No screw mount on lens, awkward manual focus, auto focus needs contrast</cons>
+<cons>Canon SX50 HS Digital Camera beautiful.</cons>
+<cons>soft images,expensive</cons>
+<name>SVP WP5300 12.0 MP Digital Camera - Blue</name>
+<cons>none so far</cons>
+<name>Canon EOS Rebel T4i / EOS 650D 18.0 MP Digital SLR Camera - Black (Kit w/ EF-S IS STM 18-135mm Lens) (Latest Model)</name>
+<cons>avoid canon and get nikon or pentax</cons>
+<name>Nikon 1 J1 10.1 MP Digital Camera - Silver (Kit w/ 10mm and VR 10-30mm Lenses)</name>
+<cons>screen for picture review is not so large</cons>
+<cons>- Expensive</cons>
+<cons>Photo could not be taken under poor lighting</cons>
+<name>Canon PowerShot SX230 HS 12.1 MP Digital Camera - Black</name>
+<cons>Expensive</cons>
+<cons>Auto exposure, dynamic range, battery life, ergonomics, screen size, touchy playback dial</cons>
+<cons>Slow GPS signal, Bad battery life</cons>
+<cons>the pop up flash is right where you want to hold the camera</cons>
+<name>Fujifilm DS 7 0.4 MP Digital Camera - Silver</name>
+<cons>Terribly </cons>
+<cons>Makes a great door stop.</cons>
+<name>Nikon COOLPIX S8000 14.2 MP Digital Camera - Black</name>
+<cons>i love nikon</cons>
+<cons>flash is awkward</cons>
+<name>Nikon COOLPIX L820 16.0 MP Digital Camera - Red</name>
+<cons>Heavy,Requires Larger Case Due to Size</cons>
+<cons>- no flip-out screen</cons>
+<name>Fujifilm X series X10 12.0 MP Digital Camera - Black</name>
+<cons>The X10 is an advanced camera that may be overkill for a novice.</cons>
+<name>Kodak EasyShare MINI M200 10.0 MP Digital Camera - Red</name>
+<cons>Bad Flash</cons>
+<cons>None.</cons>
+<cons>Video quality is poor.</cons>
+<name>Panasonic LUMIX DMC-GF3K 12.1 MP Digital Camera - Black (Kit w/ VARIO G ASPH 14-42mm Lens) (Vario G)</name>
+<cons>Not much cheaper than a DSLR; lacks optical viewfinder, hot shoe; uses a battery pack</cons>
+<name>Casio QV QV-2000 Plus 2.1 MP Digital Camera - Silver</name>
+<cons>quality of unit,</cons>
+<cons>battery life is low if you plan to use the display instead of viewfinder</cons>
+<cons>Clunky image viewing software, short battery life with alkalines</cons>
+<cons>BATTERY LIFE SUCKS, no microphone for movie mode, takes 10 seconds to turn on, PhotoShop would have been nice</cons>
+<cons>No sound recording, no movie recording beyond 30 seconds</cons>
+<name>Samsung Galaxy EK-GC100 16.1 MP Digital Camera - White</name>
+<cons>battery reccomend buy extra then youll be fine</cons>
+<name>Olympus VG-110 12.0 MP Digital Camera - Red</name>
+<cons>Poor Microphone, Loss of Quality Without Flash</cons>
+<name>Sony Cyber-shot TX55 16.2 MP Digital Camera - Silver</name>
+<cons>- Has no grip</cons>
+<cons>Cost and durability</cons>
+<name>Nikon COOLPIX S5200 16.0 MP Digital Camera - Silver</name>
+<cons>Camera broke (for no reason).</cons>
+<name>Ricoh 2 0.4 MP Digital Camera</name>
+<cons>Colour's not always true, quirky flash, bleeds batteries dry, only 2MB memory.</cons>
+<cons>heavy, kills batteries, no zoom</cons>
+<cons>Terrible service.</cons>
+<cons>Bare Bones</cons>
+<cons>weak flash, eats batteries</cons>
+<name>Sony Cyber-shot DSC-H90 16.1 MP Digital Camera - Black</name>
+<cons>no macro setting</cons>
+<name>Canon EOS Rebel T3 / 1100D 12.2 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>cant really find a serious con for this camera</cons>
+<name>Sony Alpha NEX-7 24.3 MP Digital Camera - Black (Body Only)</name>
+<cons>Few native lenses, slow autofocus, confusing for beginners</cons>
+<cons>movie record button awkwardly placed,autofocus somewhat sluggish in low light</cons>
+<name>Kodak EasyShare M532 14.0 MP Digital Camera - Dark green</name>
+<cons>No image stabilization. Poor quality pictures. Poor quality video.</cons>
+<name>Canon EOS Rebel T3 / 1100D 12.2 MP Digital SLR Camera - Brown (Body Only)</name>
+<cons>Slow kit zoom and skinny handgrip</cons>
+<cons>Auto Focus can be annoying</cons>
+<cons>Loud Autofocus, Plastic Feel</cons>
+<cons>not much in the way of colour choices.</cons>
+<cons>Lightweight,but with a slippery body makes it risky for handgrip. Less number of colour choices.</cons>
+<name>Sony Cyber-shot DSC-WX5 12.2 MP Digital Camera - Silver</name>
+<cons>No Manual control, pictures could have soft edges</cons>
+<name>Sony Cyber-shot DSC-HX20V 18.2 MP Digital Camera - Black</name>
+<cons>no cons as such</cons>
+<name>Olympus Tough TG-820 iHS 12.0 MP Digital Camera - Black</name>
+<cons>custom battery, non-optimal mechanical design, noes not float in water.</cons>
+<name>Nikon COOLPIX P310 16.1 MP Digital Camera - White</name>
+<cons>Expensive, no optical viewfinder, no handfrip</cons>
+<cons>no zoom during movies</cons>
+<cons>Investment for some</cons>
+<name>SVP WP5000</name>
+<cons>None so far.</cons>
+<name>Fujifilm FinePix F Series F600EXR 16.0 MP Digital Camera - Black (F600EXR)</name>
+<cons>Seriously struggles to focus on movement in low-light.</cons>
+<name>Nikon COOLPIX S700 12.1 MP Digital Camera - Urban black</name>
+<cons>Battery warning needs better indications; small, diagonally half-filled box - could instead show time remaining</cons>
+<name>Canon PowerShot Digital ELPH SD3500 IS / IXUS 210 14.1 MP Digital Camera - Black</name>
+<cons>Battery charging must be done with the battery taken out of the camera. Mildly inconvenient.</cons>
+<cons>Accidentally leaving camera on and holding screen, functions will go off.</cons>
+<cons>Color</cons>
+<name>Sony Cyber-shot H200 20.1 MP Digital Camera - Black (Latest Model)</name>
+<cons><i><b> No direct video shooting button</b></i></cons>
+<name>Fujifilm FinePix A Series AX560 16.0 MP Digital Camera - Black</name>
+<cons>Cumbersome menu button.</cons>
+<name>Fujifilm FinePix JX Series JX580 16.0 MP Digital Camera - Gold</name>
+<cons>poor color and picture quality compared to other Fujifilm cameras.</cons>
+<name>Nikon COOLPIX P300 12.2 MP Digital Camera - Black</name>
+<cons>only zooming is less in this camera</cons>
+<name>Nikon COOLPIX L810 16.1 MP Digital Camera - Red</name>
+<cons>zero portability(who cares for this,photographers dont see portability)</cons>
+<cons>3 months after purchase it froze up; after 2 warranty repairs it still froze up.</cons>
+<name>Kodak EasyShare C143 12.0 MP Digital Camera - Silver</name>
+<cons>Only 3x zoom. Battery compartment doesn't completely close.</cons>
+<cons>No detailed instructions, Short Battery Life,photo memory storage short,complicated to upload pictures</cons>
+<name>Canon EOS Rebel T4i / EOS 650D 18.0 MP Digital SLR Camera - Black (Kit w/ EF-S IS II 18-55mm Lens)</name>
+<cons>Camera coating discolors, causes skin reactions in some people.Discontinued for this reason.</cons>
+<cons>It is not a full-frame sensor</cons>
+<cons>Broken when I recieved it.</cons>
+<cons>canon expects you to pay for their mistakes</cons>
+<name>Pentax P70 Digital Camera</name>
+<cons>NO customer support.</cons>
+<name>Panasonic LUMIX DMC-GF2 12.1 MP Digital Camera - Black (Body Only)</name>
+<cons>May be too much camera, or too little, depending on your needs.</cons>
+<name>Panasonic LUMIX DMC-FZ35 12.1 MP Digital Camera - Black</name>
+<cons>NONE</cons>
+<name>Minolta 1500 1.5 MP Digital Camera - Black & Metallic silver</name>
+<cons>no zoom</cons>
+<name>Nikon D3200 24.2 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>No auto-bracketing method, lacks articulating monitor, RAW plug-in delay</cons>
+<cons>11-point high-speed, high-precision AF system, and comfortable.</cons>
+<cons>Very easy to use if your upgrading to your first entry level dslr camera.</cons>
+<name>Nikon D D600 24.3 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>Focus point area too small, hobbled exposure bracketing, no live histogram, shrunken HDMI output</cons>
+<name>Canon EOS Rebel T2i / EOS 550D 18.0 MP Digital SLR Camera - Black (Kit w/ EF-S IS 18-55mm and EF-S IS 55-250mm Lenses)</name>
+<cons>A little pricey, but a good value in it's class.</cons>
+<name>Panasonic DMC-XS1 Digital Camera</name>
+<cons>None</cons>
+<name>Nikon COOLPIX S4300 Digital Camera</name>
+<cons>Can take time to learn all of the options available.</cons>
+<cons>A bit low image quality and presence of apparent chromatic aberration</cons>
+<cons>Image quality is disappointing, shooting speed is slow</cons>
+<name>Samsung WB Series WB150F 14.2 MP Digital Camera - Black</name>
+<cons>Doesn't quite cut it as a main camera.</cons>
+<name>Panasonic LUMIX DMC-GH1 12.1 MP Digital Camera - Black (Body Only)</name>
+<cons>14-42mm kit lens was a bit blurry and with slightly desaturated colors</cons>
+<name>Sony Mavica MVC-CD1000 2.1 MP Digital Camera - Black & Metallic silver</name>
+<cons>Expensive, Heavy, "Industrial" Look.</cons>
+<cons>cumbersome</cons>
+<cons>Price, Size, and lack of real value in CD image storage strategy.</cons>
+<cons>some functions are not as well thought out as they should be</cons>
+<cons>More expensive than two separate superior items would be.</cons>
+<name>Fujifilm FinePix REAL 3D W3 10.0 MP Digital Camera - Black (Latest Model)</name>
+<cons>Bad photo quality, bad video quality.</cons>
+<name>Nikon COOLPIX P7700 12.2 MP Digital Camera - Black</name>
+<cons>Slow write speeds; No viewfinder; not wireless</cons>
+<cons>weak high ISO range, some will miss optical viewfinder</cons>
+<cons>There Isn't One!</cons>
+<name>Nikon COOLPIX L105 12.1 MP Digital Camera - Black</name>
+<cons>The camera is quite large, but not too big.</cons>
+<cons>No eye cup</cons>
+<name>Sony Alpha NEX-5R 16.1 MP Digital Camera - Silver (Body Only) (NEX-5R/S)</name>
+<cons>- Not very many lenses available</cons>
+<name>Canon ELPH 530 HS / IXUS 510 HS Digital Camera</name>
+<cons>Expensive</cons>
+<cons>expensive</cons>
+<cons>Bad Battery life</cons>
+<name>Nikon COOLPIX P7000 10.1 MP Digital Camera - Black</name>
+<cons>Something about RAW write times. Never tried it.</cons>
+<cons>focus reliability, poor accuracy of the LCD and live-histogram.</cons>
+<cons>bulky</cons>
+<name>Leica D-LUX 5 10.1 MP Digital Camera - Black</name>
+<cons>You can use this camera not only in your holliday,it s also a professional product.</cons>
+<cons>Color balance and quality control.</cons>
+<name>Canon EOS Rebel T2i / EOS 550D 18.0 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>Requires large SD cards if you use RAW images. Not all software was great.</cons>
+<name>Panasonic 13.1 MP</name>
+<cons>No Remote/wireless flash</cons>
+<cons>Can't really think of anything. It's perfect.</cons>
+<name>Sony Alpha SLT-A65 24.3 MP Digital SLR Camera - Black (Kit w/ DT SAM 18-55mm Lens) (SLT-A65VK)</name>
+<cons>Plasticky for a $1000 camera, 1/3 of the light lost to the SLT mirror</cons>
+<cons>it is a great device to learn more about photography.</cons>
+<cons>Expensive</cons>
+<cons>Fragile</cons>
+<cons>This camara is great fir people who live to take pictures!!!</cons>
+<name>Sharp 0.4 MP</name>
+<cons>picture quality is poor, relatively unsupported by US distributor, MPEG-4 issues</cons>
+<name>Samsung MV Series MV800 16.1 MP Digital Camera - Black (EC-MV800ZDDWMY)</name>
+<cons>none</cons>
+<name>Panasonic LUMIX DMC-S3 14.1 MP Digital Camera - Red</name>
+<cons>Not perfect for night shooting, but the automatic settings dofine for most situations.</cons>
+<name>Leica M Monochrom Digital Camera</name>
+<cons>Easily blown highlights</cons>
+<name>Kodak DC 240i 1.2 MP Digital Camera - Orange</name>
+<cons>not good for outdoor or evening pictures</cons>
+<cons>You can't even take all the pictures you want because the batteries are just sucked up.</cons>
+<cons>down loading can be slow with parallel interface</cons>
+<cons>Not as small as new cameras. 1.3MP too small for 8x10s. Alkaline battery life short.</cons>
+<cons>Lens Cap Cover falls off</cons>
+<name>Panasonic LUMIX DMC-GX1X 16.0 MP Digital Camera - Silver (Kit w/ ASPH 14-42mm Lens) (Vario X)</name>
+<cons>You lose Size advantage when you mount the longer Zoom Lenses; no Viewfinder; Limited Lenses</cons>
+<name>Casio EXILIM ZOOM EX-ZS10 14.1 MP Digital Camera - Red</name>
+<cons>Quite fragile; limited flash options; pictures frequently blurry; less color saturation than other models</cons>
+<name>Panasonic LUMIX DMC-LX5 10.1 MP Digital Camera - Black</name>
+<cons>Expensive, a bit bulky</cons>
+<cons>No viewfinder for bright sunny days, although you can purchase one.</cons>
+<cons>-still bulky comapred to point and shoot compact</cons>
+<cons>the price kills me</cons>
+<cons>delete the review great camera, but does not rate the camera at all.</cons>
+<name>Sony Cyber-shot DSC-HX9V 16.2 MP Digital Camera - Black</name>
+<cons>heavy jpeg compression, sometimes noticeable post processing, average manual and software</cons>
+<cons>No</cons>
+<cons>shutter speed sometimes not work properly</cons>
+<cons>Awkward position of the Flash.Left had stops it coming out sometimes</cons>
+<cons>low battery easily kind of big special care</cons>
+<name>Fujifilm FinePix JV Series JV200 14.0 MP Digital Camera - Black (JV200)</name>
+<cons>Grainy in dim light</cons>
+<cons>No action shots</cons>
+<name>Kyocera 0.3 MP</name>
+<cons>Resolution Limited, Battery Hog</cons>
+<name>Canon PowerShot A2200 14.1 MP Digital Camera - Blue</name>
+<cons>Not very good in low light settings or indoors</cons>
+<name>Sony Alpha SLT-A77 24.3 MP Digital SLR Camera - Black (Kit w/ E PZ OSS 16-50mm Lens)</name>
+<cons>A lot more money than the equally capable A65</cons>
+<cons>Easily Scratched</cons>
+<cons>Wanna buy one in South Africa? Seems Sony South Africa is not interested.</cons>
+<cons>high noise levels and lethargic controls arent acceptable at this price,poor zoom</cons>
+<name>Canon PowerShot SX500 IS 16.0 MP Digital Camera - Black (6353B001)</name>
+<cons>Very bad fringe on picture edges. Auto mode unreliable</cons>
+<cons>canon Sx500 Powershot</cons>
+<name>Canon PowerShot ELPH 320 HS / IXUS 240 HS 16.1 MP Digital Camera - Blue (6030B001)</name>
+<cons>Auto not quite smart enough, durability (perceived but unproven), flash time, standard battery life, WiFi</cons>
+<cons>short zoom range, not many options and controls</cons>
+<cons>could have more effects</cons>
+<name>Panasonic LUMIX DMC-TS10/DMC-FT10 14.1 MP Digital Camera - Black</name>
+<cons>Videohas no pause feature, InstallWindow Movie Maker for Free easy editing.</cons>
+<cons>Bad in poor light</cons>
+<name>Canon EOS Rebel T3 / 1100D 12.2 MP Digital SLR Camera - Black (Kit w/ EF-S IS II 18-55mm and EF-S IS II 55-250mm Lenses)</name>
+<cons>- The body material does not look like having a good quality.</cons>
+<cons>I wish the lens had a little bit more zoom in it.</cons>
+<cons>faulty software made my $1100 camera WORTHLESS!!</cons>
+<name>Canon EOS Rebel T2i / EOS 550D 18.0 MP Digital SLR Camera - Black (Kit w/ EF-S IS 18-135mm Lens)</name>
+<cons>dont be fooled by canons reputation..</cons>
+<cons>A bit pricey</cons>
+<name>Casio QV QV-3000EXPlus 3.3 MP Digital Camera - Black & Metallic silver</name>
+<cons>Price is too High!</cons>
+<cons>Quicktime movie feature could be longer</cons>
+<cons>Slow writing time</cons>
+<cons>VERY HIGH SERVICE COSTS, Battery life, lack of sunshade on backlighted viewer</cons>
+<cons>Storage time on the microdrive</cons>
+<name>Samsung DualView TL225 12.2 MP Digital Camera - Purple</name>
+<cons>Buttons are small, takes a long time to turn on, and long time to charge.</cons>
+<name>Fujifilm FinePix HS30EXR / HS33EXR Digital Camera</name>
+<cons>Manual focusing ring should be wider for better control</cons>
+<name>Vivitar ViviCam X014 10.1 MP Digital Camera - Black</name>
+<cons>Sometimes fuzzy pictures, Battery dies too quickly, f=7mm F3.0 Lenses</cons>
+<name>Nikon COOLPIX L120 14.1 MP Digital Camera - Black</name>
+<cons>Weak video, burst pictures limited to 3 megapixels, and no electronic viewfinder.</cons>
+<cons>not an SLR</cons>
+<cons>Poor quality burst photos</cons>
+<cons>No panoramic sweep.</cons>
+<cons>Does'nt have a detachble lens.</cons>
+<name>Kyocera 1300 DG 1.2 MP Digital Camera - Silver</name>
+<cons>Does not come with a camera case.</cons>
+<cons>No mam, it's not a mini camcorder!!</cons>
+<name>Sony Cyber-shot W560 14.1 MP Digital Camera - Blue</name>
+<cons>memory card not included.</cons>
+<cons>The movie recorder sound and yellow tint were terrible.</cons>
+<cons>Takes a while for the picture to actually take.</cons>
+<name>Canon ELPH 110 HS / IXUS 125 HS Digital Camera</name>
+<cons>Lithium battery. No memory included.</cons>
+<cons>none to report at this moment</cons>
+<name>Sony Alpha Slt-a35 Digital Camera</name>
+<cons>White balance does not always work correctly.</cons>
+<name>Nikon COOLPIX L610 16.0 MP Digital Camera - Black</name>
+<cons>A half battery icon = REPLACE NOW. The lens may not retract when batteries deplete.</cons>
+<cons>very slow to charge and the HD video dont run properly on the computer.</cons>
+<cons>Retractable lense Jammed.</cons>
+<name>Canon EOS 5D Mark II 21.1 MP Digital SLR Camera - Black (Kit w/ EF L IS USM 24-105mm Lens)</name>
+<cons>Expensive, outdated autofocus system</cons>
+<name>Canon A4000 IS Digital Camera</name>
+<cons>Flat lifeless pictures, erratic focus and flash</cons>
+<cons>none</cons>
+<cons>Short battery life and the video quality is only HD 720.</cons>
+<cons>defective software means big trouble down the road</cons>
+<name>Kodak EasyShare C1505 12.0 MP Digital Camera - Black</name>
+<cons>Can be confusing for some people when using the different features.</cons>
+<cons>Battery life is bad,no built in memory</cons>
+<cons>Cons: Not really fancy, not slim, not touch screen, doesnt have built in memory.</cons>
+<cons>None</cons>
+<cons>don't take good night time photo's. Little bulky</cons>
+<name>Sanyo Xacti VPC-S3 3.2 MP Digital Camera - Silver</name>
+<cons>None</cons>
+<cons>resolution, if you are looking for professional quality, memory stick expense, automatic flash</cons>
+<cons>No viewfinder, Comes with only a 4MB memory stick</cons>
+<cons>Shutter Button 1 Second Delay, Tiny Connection into Camera</cons>
+<cons>No View Finder, Zoom Could Be Better, 1 Second Delay On Shutter Operation</cons>
+<name>Canon EOS Rebel T4i / EOS 650D 18.0 MP Digital SLR Camera - Black (Body Only) (6558B001)</name>
+<cons>Price relatively high</cons>
+<name>Canon PowerShot S20 3.2 MP Digital Camera - Silver</name>
+<cons>- none</cons>
+<cons>- none</cons>
+<cons>price, but its not that bad</cons>
+<cons>Could use more features</cons>
+<cons>Could use more zoom, outdoor pics sometimes unnatural</cons>
+<name>Samsung PL Series PL200 14.2 MP Digital Camera - Silver</name>
+<cons>LCD, picture quality, lag</cons>
+<name>Canon EOS M 18.0 MP Digital Camera - Black (Kit w/ EF-M STM 18-55mm Lens) (Latest Model)</name>
+<cons>no handgrip, no built-in flash</cons>
+<name>Nikon COOLPIX S3100 14.0 MP Digital Camera - Silver</name>
+<cons>No standard USB connector.</cons>
+<cons>cost is more</cons>
+<name>Samsung AQ100 12.2 MP Digital Camera - Blue</name>
+<cons>poor outdoor screen, low volume, no burst mode in auto, some settings difficult to find</cons>
+<name>Panasonic LUMIX FZ100 14.1 MP Digital Camera - Black</name>
+<cons>Could have more manual control (available with firmware update), only 2-Megapixel resolution</cons>
+<cons>Not pocket-friendly, merely-adequate 2 megapixels, not many manual settings.</cons>
+<cons>The CMOS sensor that enables high speed processingcansometimes add unwanted noise.</cons>
+<cons>No Digital Camera exceeds the picture quality of a $200 35mm camera with decent optics.</cons>
+<cons>focus in low light, weak macro, graininess (keep in mind I'm picky</cons>
+<name>Panasonic LUMIX DMC-GH2H 16.0 MP Digital Camera - Silver (Kit w/ ASPH 14-140mm Lens)</name>
+<cons>Be prepared to spend the big bucks, lots of things you'll need.</cons>
+<name>Panasonic LUMIX DMC-FZ47 / DMC-FZ48 12.1 MP Digital Camera - Black</name>
+<cons>Too many choices with menu selection can be confusing.</cons>
+<name>Fujifilm FinePix HS Series HS20EXR 16.0 MP Digital Camera - Black (HS20EXR)</name>
+<cons>1. Fixed lens (Non-interchangable)</cons>
+<cons>Noisey start up</cons>
+<cons>Doesn't record video very well</cons>
+<name>Mustek GSmart 350 0.4 MP Digital Camera - Silver blue</name>
+<cons>not so good in dark places</cons>
+<cons>Close-ups a little fuzzy, low memory (upgradable, though), viewer awkward</cons>
+<cons>photos are sub-par</cons>
+<cons>Non for its price</cons>
+<cons>none</cons>
+<name>Sony Cyber-shot W610 14.1 MP Digital Camera - Pink</name>
+<cons>Impropper flash light</cons>
+<name>Nikon COOLPIX S9300 16.0 MP Digital Camera - Silver</name>
+<cons>Worst focusing ever (takes far to long if you need to capture something important.).</cons>
+<cons>Charging set-up; additional features</cons>
+<name>Nikon P520 18.1 MP</name>
+<cons>Fuzzy images at full telephoto, no RAW mode, no hot shoe </cons>
+<cons>The P520 supports the CEC feature for HDMI.</cons>
+<name>Nikon COOLPIX 990 3.3 MP Digital Camera - Black</name>
+<cons>A few Minor Compatibility Concerns</cons>
+<cons>Pricey, needs bigger memory card, eats batteries</cons>
+<cons>Batteries drain too quickly, Included Software Sucks</cons>
+<cons>Limited zoom range, limited to 400ISO, not constant aperture zoom.</cons>
+<cons>Battery usage, slow to charge</cons>
+<name>Fujifilm FinePix X Series XP10 / XP11 12.2 MP Digital Camera - Blue</name>
+<cons>really only good for underwater pictures.</cons>
+<cons>Low Battery Life</cons>
+<cons>In less than 3 months I had to send it for repairs.</cons>
+<cons>Poor audio quality</cons>
+<cons>Fuzzy pictures. Low-quality focus. Slightly confusing to figure out. Low battery life.</cons>
+<name>Sony Cyber-shot WX50 16.2 MP Digital Camera - Black</name>
+<cons>No manual focus, shutter speed or aperture adjustment. Has trouble focusing in low light.</cons>
+<cons>Battery life is not the best.</cons>
+<name>GE Smart Series A1255 12.2 MP Digital Camera - Pink</name>
+<cons>Eats batteries, changes settings on its own, fish eye distortion when photographing framed paintings.</cons>
+<name>Samsung NX NX200 20.3 MP Digital Camera - Black (Body Only)</name>
+<cons>the removable flash being hard to remove after use.</cons>
+<name>Sony Cyber-shot DSC-TX10 16.2 MP Digital Camera - Pink</name>
+<cons>The touch screen is a bit hard to use and can be too slow.</cons>
+<name>Panasonic LUMIX DMC-FZ150 12.1 MP Digital Camera - Black</name>
+<cons>Price, though I got a greatdeal on mine.</cons>
+<cons>the wife thought i spent way too much (until she saw the pictures it takes),,</cons>
+<name>Fujifilm FinePix S Series S3200 14.0 MP Digital Camera - Black (S3200)</name>
+<cons>Not Great if your looking for professional quality.</cons>
+<cons>The AA batteries cost alot in the long term run .</cons>
+<name>Canon PowerShot ELPH 310 HS / IXUS 230 HS 12.1 MP Digital Camera - Green</name>
+<cons>No optical Viewfinder, slight tendency toward over-exposure, no manual exposure options </cons>
+<cons>You can hear the zoom in video mode, battery bug</cons>
+<name>Fujifilm FinePix S Series S4200 14.0 MP Digital Camera - Black (S4200)</name>
+<cons>Blurry pictures sometime</cons>
+<cons>Not the best video quality on this bridge model.</cons>
+<name>Canon PowerShot SX40 HS 12.1 MP Digital Camera - Black</name>
+<cons>soft images, expensive</cons>
+<cons>Can be difficult to navigate.</cons>
+<cons>Lazy autofocus awkward manual focus, only jpeg, bayonet filter mount, no bokeh, no time lapse</cons>
+<cons>The lens isn't removable</cons>
+<cons>Cameras are very popular Christmas gifts and every winter major camera manufacturers</cons>
+<name>Nikon COOLPIX P500 12.1 MP Digital Camera - Black</name>
+<cons>A bit pricy</cons>
+<cons>LCD screen doesn't fold 90 degrees.</cons>
+<cons>stabilizing issues, photos disappearing, a little pricey</cons>
+<cons>-Great HD and HS video</cons>
+<cons>Thera are no special effects like fish-eye or pinhole.</cons>
+<name>Canon PowerShot SX130 IS 12.1 MP Digital Camera - Silver</name>
+<cons>Beingmore than six feet away when indoors orwithout flashresults in grainy images.</cons>
+<cons>Slow, but acceptable, performance. Changing of settings can sometimes be awkward.</cons>
+<cons>Alkaline battry life is bad!! but when you switch to rechargeables problem is gone.</cons>
+<cons>ISO Auto is oversensitive in medium-low light, so-so battery life, shutter lag is sometimes slow.</cons>
+<cons>Battery life, lack of continuous/sport setting.</cons>
+<name>Canon PowerShot A2500 16.0 MP Digital Camera - Black</name>
+<cons>My only complaint is that the camera doesn't come with a USB cord.</cons>
+<cons>Poor sound quality</cons>
+<name>Olympus V Series VR-310 14.0 MP Digital Camera - Red</name>
+<cons>does not work well when there is a lot of shadow</cons>
+<name>Nikon D D3100 14.2 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>A little heavy and bulky.</cons>
+<cons>battery life in liveview</cons>
+<cons>No microphone port, over simplified menu may frustrate experienced photographers</cons>
+<cons>none</cons>
+<cons>Not very video friendly, fragile outer body, and a lacking auto. Not for low light.</cons>
+<name>Nikon COOLPIX L26 16.1 MP Digital Camera - Red</name>
+<cons>None yet</cons>
+<name>Canon PowerShot Digital ELPH S100 / Digital IXUS 2.0 MP Digital Camera - Silver</name>
+<cons>The CompactFlash card is too small!</cons>
+<cons>Needs to be upgraded right out of the box</cons>
+<cons>a bit heavy</cons>
+<cons>So is many others. May not be your 'decisive moment' camera.</cons>
+<cons>None</cons>
+<name>Canon EOS 60D 18.0 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>Missing magnesiumalloy body, smaller size body, needs battery grip</cons>
+<cons>I haven't found any. For $519 this camera body is the best value.</cons>
+<cons>Downgrade in body material compared to previous XXD models.</cons>
+<cons>1 CMOS Censor instead of 2, Non-Magnesium Allow Body, Not Much Audio Functionality,</cons>
+<cons>Not very durable</cons>
+<name>Agfa ePhoto CL18 0.3 MP Digital Camera - Gray</name>
+<cons>No memory upgrade or color LCD display.</cons>
+<cons>If you want to spend more, you can get more resolution and memory.</cons>
+<cons>No expandable memory.</cons>
+<cons>VERY low resolution. Will not take good enough pics for eBay or email</cons>
+<cons>Flaky hardware, *extremely* sensitive to motion during picture taking, mediocre picture quality.</cons>
+<name>Canon EOS Digital Rebel / EOS 300D 6.3 MP Digital SLR Camera - Silver (Kit w/ EF-S USM 18-55mm Lens)</name>
+<cons>No ISO 50 sensitivity setting, the f3.5 maximum aperture on EF-S 18?55mm f/3.5?5.6</cons>
+<cons>still pricey, somewhat bulky, visible noise over ISO 400, no LCD preview</cons>
+<cons>No onboard FEC capability, but little else to complain about.</cons>
+<cons>Little control over metering, body material could be improved</cons>
+<cons>No movie mode, no digital zoom, no LCD preview, no separate flash exposure adjustment</cons>
+<name>Nikon 1 J1 10.1 MP Digital Camera - Black (Body Only)</name>
+<cons>Only 1 Metering Mode</cons>
+<name>HD HERO 960 Digital Camera</name>
+<cons>A bit heavy, no expansion port for advanaced accessries for professional use</cons>
+<cons>- Extreme cold can crash the camera</cons>
+<name>Nikon COOLPIX S6100 16.0 MP Digital Camera - Silver</name>
+<cons>only thing that has bothered me is that the power button gets stuck after while.</cons>
+<cons>Battery life not that well</cons>
+<name>Sony Cyber-shot DSC-W330 14.1 MP Digital Camera - Blue</name>
+<cons>I have not found any cons!</cons>
+<name>Canon PowerShot A2300 16.0 MP Digital Camera - Red</name>
+<cons>NONE</cons>
+<cons>Short battery life, lens errors, no optical image stabilization. Digital zoom during video is fuzzy.</cons>
+<cons>scratches easily</cons>
+<cons>lack image stabilization & limted video supports...</cons>
+<cons>I love everything about this camera. I only regret not getting it sooner.</cons>
+<name>Nikon COOLPIX L24 14.0 MP Digital Camera - Red</name>
+<cons>Has a bigger width then most of the newer cameras.</cons>
+<cons>bulky camera, limited setting changes, camera sometimes freezes once and awhile.</cons>
+<cons>Warranty could be better, Nikon customer service is not very good.</cons>
+<cons>The picture cwality it not good at all can be complicating for it type</cons>
+<name>Olympus PEN E-PM1 12.3 MP Digital Camera - Black (Body Only)</name>
+<cons>Grainy picture in less lighting and The lens zoom is to high at its lowest.</cons>
+<name>Fujifilm X-Pro 1 Digital Camera</name>
+<cons>Lack of reliability; company does not honor warranty</cons>
+<name>Sony Cyber-shot DSC-T110 16.1 MP Digital Camera - Pink</name>
+<cons>screen is not touch sensitive.</cons>
+<cons>Downgraded sweep panorama. Images are soft. Noisy audio.</cons>
+<name>Panasonic LUMIX DMC-ZS19 14.1 MP Digital Camera - Black (Latest Model)</name>
+<cons>lens shutters and bottom door had broken in less than a year of use</cons>
+<name>Canon PowerShot A1200 12.1 MP Digital Camera - Black</name>
+<cons>Good lighting is required. Flash is mediocre. Prone to lens failure.</cons>
+<cons>The product has no cons.</cons>
+<name>Nikon COOLPIX S6200 16.0 MP Digital Camera - Silver</name>
+<cons>some menus many steps deep</cons>
+<cons>lens is slightly slower(requires a bit more light) than earlier models</cons>
+<cons>A bit shakey when you zoom but it's tolerable</cons>
+<cons>kind of slow</cons>
+<cons>Kind of pricy but not too bad for a digital camera.</cons>
+<name>Nikon COOLPIX P7100 10.1 MP Digital Camera - Black</name>
+<cons>Expensive</cons>
+<cons>and without a memory card it cannot hold any pictures</cons>
+<name>Kodak 12.0 MP</name>
+<cons>None</cons>
+<cons>Not waterproof, a little bulky/thick</cons>
+<cons>Not waterproof (at least at 3 feet).</cons>
+<cons>Non underwater pictures</cons>
+<cons>zoom is bad no rechargable battery</cons>
+<name>Nikon COOLPIX 880 Digital Camera</name>
+<cons>2CR5 battery, 8MB included CompactFlash Card</cons>
+<cons>battery life</cons>
+<cons>only supports Type I CF cards</cons>
+<cons>Hidden costs (Battery, Compact flash, Software)</cons>
+<cons>Battery life.</cons>
+<name>Olympus Stylus SP-620UZ 16.0 MP Digital Camera - Silver</name>
+<cons>Not exceptional lens; awkward posn of video switch, pan function is not easy to use</cons>
+<cons>-Small, awkward controls</cons>
+<name>Vivitar ViviCam 2700 0.3 MP Digital Camera - Beige</name>
+<cons>Battery life, picture resolution, lighting problems, sturdiness of camera</cons>
+<cons>A real battery eater!</cons>
+<cons>film does not advance</cons>
+<cons>This Vivitar is the worst possible quality</cons>
+<cons>no a/c adapter, eats batteries, doesn't last long</cons>
+<name>Audiovox 0.4 MP</name>
+<cons>not super quality photos. not for professional use.</cons>
+<cons>Only so-so image quality at best.</cons>
+<cons>Breaks when dropped on ceramic tiles</cons>
+<cons>Not the best quality photos</cons>
+<cons>Only 2MBs but that works for me might not for you.</cons>
+<name>Vivitar ViviCam T324N 12.1 MP Digital Camera - Black</name>
+<cons>Early mechanical failure</cons>
+<name>PENTAX Pentax K K-5 16.3 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>Not as famous as it deserves to be.</cons>
+<cons>Definitely a minor brand so fewer lenses and accessories are available.</cons>
+<name>Canon PowerShot SD4500 10.0 MP Digital Camera - Brown (Kit w/ Not Applicable Lens)</name>
+<cons>Nothing!</cons>
+<cons>none</cons>
+<cons>Its a great product i brought it it was good</cons>
+<name>Fujifilm Fisher-Price Kid-Tough S3300 14.0 MP Digital Camera - Black</name>
+<cons>Can't change lens</cons>
+<cons>Confusing to start with, battery powered.</cons>
+<cons>None that I can see.</cons>
+<name>Panasonic LUMIX DMC-ZS10 / DMC-TZ20 14.1 MP Digital Camera - Silver</name>
+<cons>Heavy for it's size, don't drop it.</cons>
+<cons>extremely weak monitor glass .</cons>
+<name>Fujifilm Fisher-Price Kid-Tough S8200 16.0 MP Digital Camera - Black</name>
+<cons>As typical for superzoom cameras, a tripod is needed to get the 40x shots.</cons>
+<name>Pentax WG-3 GPS Digital Camera</name>
+<cons>Steep initial learning curve, no external (wired) battery charger</cons>
+<name>Fujifilm FinePix F Series F770EXR / F775EXR 16.0 MP Digital Camera - Black</name>
+<cons>Focus wash out in high contrast situations</cons>
+<cons>Extreme Low-light performance could be better.</cons>
+<cons>Poor battery capacity</cons>
+<name>Sanyo VPC T1495 14.0 MP Digital Camera - Blue</name>
+<cons>I do not see any cons with this Camera, all just GREAT with me.</cons>
+<cons>Zoom quality, not greatest. Flash is a little delayed. Panarama only uses three pictures.</cons>
+<name>Panasonic LUMIX DMC-TZ30/DMC-ZS20 14.1 MP Digital Camera - Silver</name>
+<cons>a bit bulky (if you had to nit-pick)</cons>
+<cons>The battery life when you have the GPS setting on can kill your battery quickly.</cons>
+<name>Nikon D D3200 24.2 MP Digital SLR Camera - Red (Body Only)</name>
+<cons>A stronger lens that could zoom in further to capture more details</cons>
+<name>Kodak DC 4800 3.1 MP Digital Camera</name>
+<cons>getting used to the different features and settings</cons>
+<cons>Needs a bigger Compact-flash card.</cons>
+<cons>poor close-ups (without extra lens), lens cap comes unattached easily, does not take great low-light pictures</cons>
+<cons>battery drains fast, bad focus in low-light conditions</cons>
+<cons>some small ones, read the review!</cons>
+<name>Canon PowerShot SX150 IS 14.1 MP Digital Camera - Black</name>
+<cons>slow fromshot to shotdue to only two AA batteries.</cons>
+<cons>- Portability</cons>
+<cons>shortest battery life in a camera even when using high reserve</cons>
+<cons>battery life</cons>
+<cons>Slightly arkward to hold. batteries drain quickly; rechargeable NiMH batteries are a must.</cons>
+<name>Canon PowerShot S95 10.0 MP Digital Camera - Black</name>
+<cons>No viewfinder or flash hotshoe, interface still more complicated than it needs to be</cons>
+<cons>Expensive, no external flash option, lens slows to F4.9 at telephoto</cons>
+<cons>Not built for bigger hands; can't take a hard-knock life; some menus require study</cons>
+<cons>Flash can drain battery quickly.</cons>
+<cons>No cons for this camera in comparison with others in same category.</cons>
+<name>Fujifilm Fisher-Price Kid-Tough S4500 14.0 MP Digital Camera - Black</name>
+<cons>Canon no super-macro and grainy/shaky with zoom, Fuji fewer memory options.</cons>
+<name>Canon PowerShot A3400 IS 16.0 MP Digital Camera - Silver</name>
+<cons>faulty software makes big trouble</cons>
+<name>Canon EOS 6D 20.2 MP Digital SLR Camera - Black (Body Only) (8035B002)</name>
+<cons>Single SD slot, few autofocus points</cons>
+<cons>1/4000 Shutter Speed, Lack of Compactflash, Amateur Video Quality, and No wireless video recording</cons>
+<cons>none.</cons>
+<cons>Few bad auto focus problems.</cons>
+<cons>may be less friendly prices</cons>
+<name>Panasonic DMC-ZS3 Digital Camera</name>
+<cons>can't see the LCD in bright light, no real manual ability</cons>
+<cons>Was disappointed in needing a repair with such little use.</cons>
+<cons>http://www.crazy-handbags.com</cons>
+<name>Canon PowerShot G15 12.1 MP Digital Camera - Black</name>
+<cons>some problems with zoom mode</cons>
+<name>Nikon COOLPIX S3100 14.0 MP Digital Camera - Pink</name>
+<cons>-small memory</cons>
+<cons>Lacks a few features.</cons>
+<name>Olympus PEN E-PM1 12.3 MP Digital Camera - Brown (Kit w/ 14-42mm II Lens)</name>
+<cons>Lack of buttons</cons>
+<cons>May be to complicated for some, Little buttons on the camera and complicated menu system</cons>
+<name>Canon PowerShot G12 10.0 MP Digital Camera - Black</name>
+<cons>Somewhat slow AF, overall few significant changes over PowerShot G11</cons>
+<cons>Aperture dial is a little hard to turn, view finder very small.</cons>
+<cons>colors off-balance or washed out, no printed manual</cons>
+<cons>Heavy</cons>
+<name>Samsung PL Series PL120 14.2 MP Digital Camera - Black</name>
+<cons>Slow</cons>
+<name>Fujifilm FinePix S Series S3400 14.0 MP Digital Camera - Black</name>
+<cons>Mine doesn't like one set of NI-MH batteries.</cons>
+<name>Mattel Barbie Photo Designer 0.0 MP Digital Camera - Silver & Pink</name>
+<cons>What can I expect from a plastic camera made by Barbie?</cons>
+<name>Samsung Smart Camera DV300F 16.0 MP Digital Camera - Black</name>
+<cons>Limited zoom (5x) compared to cameras without front LCD (15x) of the same price range.</cons>
+<cons>Lower image quality on higher ISO settings. Lacks a touchscreen.</cons>
+<cons>Slow shutter speed. The automatic mode doesn't always take the best shot.</cons>
+<name>Nikon D3200 Digital Camera with 18-55mm lens</name>
+<cons>Nothing</cons>
+<cons>battery life in live mode, sometimes slow not willing to take the picture right away.</cons>
+<name>Nikon COOLPIX S3300 16.0 MP Digital Camera - Pink</name>
+<cons>The antishake mode can make it a little slow.</cons>
+<cons>lens distortion;</cons>
+<cons>weak long-distance zoom would love that manufacturers increased the zoom</cons>
+<name>Panasonic LUMIX DMC-ZS8 14.1 MP Digital Camera - Black</name>
+<cons>Poorly written users manual and a bit noisy</cons>
+<cons>Proprietary battery, no view finder, user manual.</cons>
+<cons>Zoom is loud while taking videos</cons>
+<cons>It could improve the menu to use it more quickly.</cons>
+<cons>What they said, except for the manual.</cons>
+<name>Sony Alpha NEX-3K 14.2 MP Digital Camera - Silver (Kit w/ E OSS 18-55mm Lens)</name>
+<cons>Ugly and fiddly to use the flash</cons>
+<cons>Price.</cons>
+<cons>A bit heavy after long time peroids, no lens covers supplied, no viewfinder,</cons>
+<name>Toshiba PDR M60 2.3 MP Digital Camera - Gray metallic</name>
+<cons>Optional AC adapter</cons>
+<cons>Confusing to use</cons>
+<cons>Eats Batteries like snacks</cons>
+<cons>Battery EATER, USB problems, no ac adapter, Manual on CD</cons>
+<cons>Unacceptably low battery life from standard AA batts, does not include AC Adapter.</cons>
+<name>Nikon COOLPIX S6150 16.0 MP Digital Camera - Red</name>
+<cons>cant edit the photos on the camera</cons>
+<name>Sony Cyber-shot DSC-TX9 12.2 MP Digital Camera - Red</name>
+<cons>The outside paint scratches easily</cons>
+<cons>Everything else. Wretched still images. No USB charging while docked.</cons>
+<cons>weaker zoom</cons>
+<name>Sony Cyber-shot DSC-HX30V 18.2 MP Digital Camera - Black</name>
+<cons>1. Tough view in sunlight</cons>
+<name>Nikon D7100 Digital Camera</name>
+<cons>heavy, can be quite expensive for some</cons>
+<cons>New NIKON users should get a little bit used to it</cons>
+<name>Kodak EasyShare M532 14.0 MP Digital Camera - Silver</name>
+<cons>None</cons>
+<name>Sony Alpha NEX-6 16.1 MP Digital Camera - Black (Body Only)</name>
+<cons>* Limited lense selection as of this writing</cons>
+<name>Samsung NX NX1000 20.3 MP Digital Camera - White (Kit w/ ED 20-50mm Lens) (EV-NX1000BFWUS)</name>
+<cons>It may take a little while to learn all of the features.</cons>
+<name>Panasonic LUMIX DMC-FZ40/DMC-FZ45 14.1 MP Digital Camera - Black</name>
+<cons>1.09lb makes it a little heavy a few minutes of recording</cons>
+<name>Olympus S Series SZ-31MR iHS 16.0 MP Digital Camera - Black (SZ-31MR)</name>
+<cons>Low battery life</cons>
+<name>Canon PowerShot A3100 IS 12.1 MP Digital Camera - Red</name>
+<cons>Shutter lag, flash may take a while to recharge.</cons>
+<cons><b>No extensive user manual; 2-step process to access macro and flash; no memory card supplied.</b></cons>
+<cons>Will not charge from USB.</cons>
+<cons>Its a tad not as good as their 10 megapixel equivalent,outdoors from last year</cons>
+<cons>LCD screen is useless outside</cons>
+<name>Canon PowerShot A3000 IS 10.0 MP Digital Camera - Silver</name>
+<cons>No major ones.</cons>
+<name>Olympus S Series SZ-30MR 16.0 MP Digital Camera - Silver (228825)</name>
+<cons>Easily breakable</cons>
+<name>Sony Alpha NEX-C3 16.2 MP Digital Camera - Black (Kit w/ 18-55mm Lens) (NEX-C3)</name>
+<cons>Will NEX lenses appeal to photographers who want high-end lenses?</cons>
+<cons>Strange user interface</cons>
+<name>Canon EOS Rebel T5i / EOS 700D 18.0 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>Cosmetic update, Slow kit zoom, and skinny handgrip</cons>
+<cons>A little bit pricey.</cons>
+<cons>-Slow shipping</cons>
+<cons>It is hard for early beginners. It has to many features</cons>
+<cons><b>Video autofocus is choppy with non-STM lenses. 95% viewfinder coverage makes precise image framing problematic<br/></b></cons>
+<name>Nikon COOLPIX S2550 12.0 MP Digital Camera - Black</name>
+<cons>None.</cons>
+<cons>None really...</cons>
+<cons>Not waterproof.</cons>
+<cons>720p HD 2.7in LCD screen</cons>
+<name>Canon EOS Rebel T3i / EOS 600D 18.0 MP Digital SLR Camera - Black (Kit w/ EF-S IS 18-135mm Lens)</name>
+<cons>Takes some navigating to figure out the camera settings.</cons>
+<cons>Not weaknesses.</cons>
+<cons>It is a bit big to carry around most of the time.</cons>
+<cons>Limited extras</cons>
+<cons>- not quite as powerful as some next level SLR's</cons>
+<name>Samsung MV900F 16.3 MP Digital Camera - Black (EC-MV900FDDPME)</name>
+<cons>okay battery life, can only use micro SD memory cards, no internal memory</cons>
+<name>Nikon D D5100 16.2 MP Digital SLR Camera - Black (Kit w/ AF-S VR 18-55mm Lens)</name>
+<cons>Price, only 16 mega-pixels, no internal motor, only one control wheel instead of 2.</cons>
+<cons>Flash lacks commander mode capability</cons>
+<cons>Can't think of any.</cons>
+<cons>No Focus Motor</cons>
+<cons>No auto-focus engine</cons>
+<name>Panasonic LUMIX DMC-TS3 / DMC-FT3 12.1 MP Digital Camera - Orange</name>
+<cons>Expensive for point & shoot, average for a "tough" camera. Needs high speed SD.</cons>
+<cons>Too slow, poor quality, terrible customer service</cons>
+<cons>Will be replaced soon by an even better Lumix (probably).</cons>
+<name>Konica Minolta DiMAGE 5 3.3 MP Digital Camera</name>
+<cons>Electronic View Finder, Mandatory Use of Proprietary Imaging Software 
+</cons>
+<cons>somewhat complex, not the smallest camera, no sound (not really cons to me)</cons>
+<cons>macro ability, battery drain, strap in way of memory door access</cons>
+<cons>longtime to learn all settings, view finder falls off easily, LCD cannot rotate 180 degrees.</cons>
+<cons>Eats batteries, kinda' steep learning curve.</cons>
+<name>Canon EOS 7D Digital Camera</name>
+<cons>defective software will disable the camera in time</cons>
+<name>Fujifilm X Series X-S1 12.0 MP Digital Camera - Black</name>
+<cons>The batteries drain fast if used frequently.</cons>
+<name>Canon PowerShot ELPH 100 HS / IXUS 115 HS 12.1 MP Digital Camera - Blue</name>
+<cons>poor macro focus</cons>
+<cons>Indoor results mixed</cons>
+<cons>- easily broken</cons>
+<cons>Picture quality is lacking</cons>
+<cons>not a single complaint!</cons>
+<name>Olympus Tough TG-320 14.0 MP Digital Camera - Red</name>
+<cons>If the seal is not secure, you are in trouble.</cons>
+<name>PENTAX Pentax K K-5 16.3 MP Digital SLR Camera - Black (Kit w/ DA WR 18-55mm Lens)</name>
+<cons>Could be a bit pricy for people out there</cons>
+<name>Digital Rebel EOS 450D / EOS Rebel XSi Digital Camera</name>
+<cons>The ISO could be better</cons>
+<cons>Need UV protection filter, can be hard to fit into backpack, pricey.</cons>
+<name>Sony Alpha SLT-A55 16.2 MP Digital SLR Camera - Black (Kit w/ DT SAM 18-55mm Lens) (SLT-A55VL)</name>
+<cons>HDR image processing takes 3+ seconds, Sony A-compatible lenses generally 5-10% more than other brands</cons>
+<cons>High ISO shooting, ease of Video use</cons>
+<name>Nikon D5100 Digital Camera with 18-55mm and 55-200mm lenses</name>
+<cons>- Slightly small viewfinder.</cons>
+<name>Olympus CAMEDIA C-211 Zoom 2.1 MP Digital Camera - Black & Metallic silver</name>
+<cons>Inconvenient size, Battery Life</cons>
+<cons>Bulky and sometimes awkward to carry</cons>
+<cons>Bulky, print quality is average</cons>
+<cons>Gobbles up batteries like nothing you ever saw, but what digital doesn't?</cons>
+<cons>Gobbles up batteries like nothing you ever saw, but what digital doesn't?</cons>
+<name>Kodak EasyShare C183 14.0 MP Digital Camera - Black</name>
+<cons>-The pointless Kodak batteries that come with it, get rechargeables.</cons>
+<cons>The batteries that comes with it are worthless, buy some rechargables.</cons>
+<name>Sony Cyber-shot DSC-WX150 18.2 MP Digital Camera - Silver</name>
+<cons>Battery life, not sturdy, small controls.  </cons>
+<cons>None</cons>
+<cons>none</cons>
+<cons>No cons! This camera's awesome, & I'm so happy I decided on this particular one.</cons>
+<cons>Batterie sucks</cons>
+<name>Nikon E3s 1.4 MP Digital SLR Camera - Black</name>
+<cons>Old technology at this point</cons>
+<name>Fujifilm XP50 Digital Camera</name>
+<cons>hard to focus when under water.</cons>
+<cons>Complicated software, poor performance above water, horrible in low light conditions, with or without flash</cons>
+<cons>i would say the zoom could be improved</cons>
+<name>Canon EOS Rebel T3i / EOS 600D 18.0 MP Digital SLR Camera - Black (Kit w/ EF-S IS II 18-55mm Lens)</name>
+<cons>Prefer the dial on higher end Canon line but for cost can't complain</cons>
+<cons>none really</cons>
+<cons>price, need to get an expensive memory card to take 1080 video</cons>
+<cons>I wish I would have purchased the zoom that goes to 250mm.</cons>
+<cons>internal mic</cons>
+<name>Nikon COOLPIX S9100 12.1 MP Digital Camera - Black</name>
+<cons>Limited manual controls, no GPS, Mediocre Image Stabilization.</cons>
+<cons>No manual override. Maximum telephoto focus lock can be sluggish and sometimes unpredictable.</cons>
+<cons>low light zoom focus issues, image stabilization not the best</cons>
+<cons><b>Inability for the camera to focus and take pictures that arn't blurred!</b></cons>
+<cons>Freezes up occasionally after about a year, or left in a bag to long</cons>
+<name>Sony Cyber-shot W650 16.1 MP Digital Camera - Silver</name>
+<cons>flash setting is to bright</cons>
+<name>Sony Cyber-shot DSC-D770 1.5 MP Digital Camera - Silver</name>
+<cons>Card Reader</cons>
+<cons>Wish more user information was in the manual.</cons>
+<cons>Lack of interchangeable lenses.</cons>
+<cons>Price, Bulky</cons>
+<cons>Bulky. Only 1.5 megapixel. Flash stinks. Known focus problems. Learning curve.</cons>
+<name>Sony Mavica MVC-FD85 1.3 MP Digital Camera - Black</name>
+<cons>Expensive, Big and bulky</cons>
+<cons>Delayed Shutter Could Miss Action Shots</cons>
+<cons>No memory stick. Memory stick adapter causes too much lag in storage times.</cons>
+<cons>Uses floppy disk to store pictures.</cons>
+<cons>This one is easy, the price.</cons>
+<name>Vivitar ViviCam X029 10.1 MP Digital Camera - Strawberry</name>
+<cons>Doesn't hold silent mode setting and macro switch on side... could be a pro.</cons>
+<cons>-noisy</cons>
+<name>Panasonic LUMIX DMC-SZ7 14.1 MP Digital Camera - Black</name>
+<cons>Lacks Touch Screen, GPS, Wifi</cons>
+<cons>Battery life, misleading screen display, unwieldy menu software, no manual controls</cons>
+<name>Fujifilm FinePix 1400 Zoom 1.3 MP Digital Camera - Gray metallic/Black/Silver</name>
+<cons>4mb storage card</cons>
+<cons>small memory card and eats through batteries, so you'll want to upgrade to rechargeable batteries and a 32 MB Flash Card.</cons>
+<cons>inside pictures are poor quality.</cons>
+<cons>red eye, only 4mb supplied</cons>
+<cons>Not much memory, sucks serious battery</cons>
+<name>Fujifilm FinePix A Series AX500 14.0 MP Digital Camera - Purple</name>
+<cons>none</cons>
+<name>Canon PowerShot SX260 HS 12.1 MP Digital Camera - Green</name>
+<cons>Pop-up under finger. GPS tracking limited and drains battery. Spinner a little unreachable.</cons>
+<cons>defective software will show up after just so long</cons>
+<name>Olympus CAMEDIA C-3030 Zoom 3.3 MP Digital Camera - Black</name>
+<cons>none</cons>
+<cons>Poor interface</cons>
+<cons>can be intimidating</cons>
+<cons>Poor user interface, macro mode isn't all that "macro"</cons>
+<cons>Macro mode rather unimpressive.</cons>
+<name>Canon EOS Rebel T3 / EOS 1100D 12.2 MP Digital SLR Camera - Black (Kit w/ EF-S IS II 18-55mm Lens) (5157B002)</name>
+<cons>No manual aperture, no autofocus in video mode, no microphone jack</cons>
+<name>Olympus Stylus XZ-1 10.0 MP Digital Camera - Black (XZ1)</name>
+<cons>Separate charger and printed manual aren't included, not pants pocket-sized</cons>
+<cons>Nothing bad about the Olympus XZ-1!</cons>
+<cons>I didn't like just shooting raw on the Olympus XZ-1</cons>
+<cons>Strange control choices, not compact, filter adapter sold separately</cons>
+<name>Sony Cyber-shot DSC-RX100 20.2 MP Digital Camera - Black</name>
+<cons>Expensive, lacks EVF/hotshoe and easy long-exposure support</cons>
+<cons>UI quirks, some ergonomic/usability flaws</cons>
+<cons>Too much blue tint if white balance is not chosen correctly. </cons>
+<cons>Needs an external battery charger too</cons>
+<cons>The lens of this camera type xx Zoom Carl Zeiss lens.</cons>
+<name>Sony Cyber-shot DSC-W530 14.1 MP Digital Camera - Green</name>
+<cons>No HD video recording, Blurred distant images</cons>
+<name>Olympus PEN E-PL2 12.3 MP Digital Camera - Black (Kit w/ II 14-42mm and 40-150mm Lenses)</name>
+<cons>Default lens isn't for long range pictures</cons>
+<name>Olympus S Series SZ-12 14.0 MP Digital Camera - Black</name>
+<cons>Software takes some getting used to.</cons>
+<name>Canon PowerShot A3300 IS 16.0 MP Digital Camera - Red</name>
+<cons>Slight tendency toward over-exposure, cant use the zoom in video capture mode.</cons>
+<cons>They don't have variety of colors.</cons>
+<name>Sony Cyber-shot DSC-W610 14.1 MP Digital Camera - Green</name>
+<cons>No cons that I can think of.</cons>
+<cons>It is a little slow</cons>
+<name>PENTAX Pentax K K-r 12.4 MP Digital SLR Camera - Black (Kit w/ AL 18-55mm Lens)</name>
+<cons>fixed screen, no panoramic feature, no 24p, no weather sealing</cons>
+<name>Sony Cyber-shot DSC-HX7V 16.2 MP Digital Camera - Blue</name>
+<cons>Software was difficult to install, no memory card included</cons>
+<cons>slow in some modes only</cons>
+<name>Fujifilm FinePix Z Series Z800EXR 12.0 MP Digital Camera - Red</name>
+<cons>na, the motion 360 panarama has a learning curve</cons>
+<name>Panasonic LUMIX DMC-SZ1 16.1 MP Digital Camera - Blue</name>
+<cons>Lousy case; software "update" caused refusal of third-party batteries; OEM batteries too expensive</cons>
+<cons>Hasn't cooked me dinner yet....</cons>
+<name>Nikon COOLPIX L110 12.1 MP Digital Camera - Black</name>
+<cons>Bulky, High learning curve, battery life is not that good</cons>
+<cons>Some photos will have a green tint to them.</cons>
+<cons>- Some modes</cons>
+<name>Nikon D D5200 24.1 MP Digital SLR Camera - Black (Kit w/ AF-S DX G ED VR 18-105mm Lens)</name>
+<cons>auto focus, lack of mode switch button</cons>
+<cons>*Battery life is not the best</cons>
+<name>HP CW450t 12.2 MP Digital Camera</name>
+<cons>bad battery lifebetter value for money out there</cons>
+<name>Nikon COOLPIX S6300 16.0 MP Digital Camera - Pink</name>
+<cons><b>Larger screen<br/>More Photo editing options</b></cons>
+<name>Nikon D5100 3D Digital Camera with 55-300mm lens</name>
+<cons>Not many bad things to say, but a larger zoom would be nice.</cons>
+<name>Sony Îą (alpha) DSLR-A65 24.3 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>Not good taking picture through the LCD at a distance.</cons>
+<name>Sony Cyber-shot DSC-S50 1.9 MP Digital Camera - Silver</name>
+<cons>No Optical Viewfinder, "chintzy" 4 megabyte included Memory Stick</cons>
+<cons>Comes with only a 4 MB Memory Stick, No viewfinder (only a 2" LCD screen)</cons>
+<cons>No viewfinder and memory stick.</cons>
+<cons>Digital Zoom distorts quality</cons>
+<cons>high price, possibility of Sony making the memstick proprietary</cons>
+<name>Nikon D800E 36.3 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>Low light performance, slow with typical speed flash cards, proprietary USB cable</cons>
+<cons>File size</cons>
+<name>Nikon COOLPIX S4100 14.0 MP Digital Camera - Plum (26261)</name>
+<cons>Nothing really, its a great camera! So go out and buy it !</cons>
+<name>Sony Cyber-shot DSC-HX100V 16.2 MP Digital Camera - Black</name>
+<cons>Sony software, included strap</cons>
+<cons>Picture quality is not quite as good as some of the competition.</cons>
+<cons>May be slightly to big for your needs</cons>
+<cons>Limited capabilities and records in Too Big of a file format</cons>
+<name>Canon EOS Rebel T3i / 600D 18.0 MP Digital SLR Camera - Black (Kit w/ EF-S IS 18-135mm Lens)</name>
+<cons>-lens might be useless as you progress</cons>
+<cons>Capture rate lower than the previous model.</cons>
+<cons>Aperture priority doesn't work with flash.</cons>
+<cons>No joystick, no multi-flash support</cons>
+<cons>Smaller Body, Magnesium alloy-less, Audio Quality, Lens doesn't zoom to </cons>
+<name>Fujifilm FinePix S Series S4250 14.0 MP Digital Camera - Black</name>
+<cons>AA battery</cons>
+<cons>Pressing the shutter button to exit play back.</cons>
+<name>Olympus Stylus SP-720UZ 14.0 MP Digital Camera - Black</name>
+<cons>Takes some play time to get it perfect, small internal memory.</cons>
+<name>Sony Cyber-shot DSC-H70 16.1 MP Digital Camera - Silver</name>
+<cons>Not the sturdiest camera available, not good in fast-action situations, poor zoom controller location.</cons>
+<cons>No memory card, sometimes has clicking noise when recording if you zoom in or out</cons>
+<cons>short battery life</cons>
+<name>Canon EOS 50D 15.1 MP Digital SLR Camera - Black (Kit w/ EF-S IS 18-135mm Lens)</name>
+<cons>The only thing in the way of perfection is a full sized sensor.</cons>
+<name>Epson PhotoPC 3000z 3.3 MP Digital Camera - Silver blue</name>
+<cons>A focusing quirk you can work around and a shutter button quirk that can catch you off guard (but is not serious).</cons>
+<cons>useabiliity issues</cons>
+<name>Fujifilm X Series X-Pro1 16.3 MP Digital Camera - Black (Body Only)</name>
+<cons>Battery Cover obstructed if using tripod mount. No lighting fast auto-focus.</cons>
+<cons>Lack of reliability; company does not honor warranty</cons>
+<name>Sony Alpha SLT-A57 16.1 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>Not pocketable, plastic (but solid) feel. Some frivolous ineffective extra features.</cons>
+<name>Panasonic LUMIX DMC-GF2K 12.1 MP Digital Camera - Red (Kit w/ ASPH 14-42mm Lens)</name>
+<cons>Mediocre dynamic range and high-ISO ability</cons>
+<name>Panasonic LUMIX DMC-G2 12.1 MP Digital Camera - Red (Body Only)</name>
+<cons>Smaller sensor than full sized DSLRs</cons>
+<name>Samsung Digimax 800K 0.8 MP Digital Camera</name>
+<cons>Poor quality Macro shots, batteries drain very quickly</cons>
+<cons>Poor image quality. Flash too strong at short range then drops off quickly.</cons>
+<cons>Take long time to process between picture</cons>
+<cons>No zoom, No LCD, Not TTL (through the lens)</cons>
+<cons>battery life, exposure</cons>
+<name>Sony Cyber-shot DSC-W570 16.1 MP Digital Camera - Silver</name>
+<cons>16.1 mega-pixels may be overkill for this camera's actual somewhat limitedcapabilities.</cons>
+<cons>photos lack sharpness and lifelike colors.</cons>
+<cons>too small and hard to see for some</cons>
+<cons>price</cons>
+<cons>Battery life is crap, limited functionality, doesn't handle low light well</cons>
+<name>Kodak EasyShare C1450 14.0 MP Digital Camera - Black</name>
+<cons>Not the best quality because it not a proffesional camera</cons>
+<name>Sony Mavica MVC-FD90 1.6 MP Digital Camera - Black</name>
+<cons>No battery lives forever. Memory stick capable, but this is ordered separately, the camera itself is a little bulky</cons>
+<cons>Floppy Drive, Sony, Warranty</cons>
+<cons>a little big, have to buy two batteries</cons>
+<cons>Battery life could be better, costs a little more than others</cons>
+<cons>$100 more, kind of big compared to traditional camera</cons>
+<name>Nikon D D800 36.3 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>-Weight (When compared to travel cameras)</cons>
+<name>Canon EOS Rebel T3i / EOS 600D 18.0 MP Digital SLR Camera - Black (Kit w/ EF-S IS II 18-55mm and EF III 75-300mm Lenses)</name>
+<cons>- too many options for shooting for inexperienced photographers</cons>
+<cons>Live view mode AF is slow</cons>
+<cons>Expensive Accessories</cons>
+<name>Nikon COOLPIX S8200 16.1 MP Digital Camera - Silver</name>
+<cons>Rechargable battery.</cons>
+<cons>Flash feature won't close until you shut the camera off</cons>
+<cons>The S8200's autofocus can be slow at times</cons>
+<name>Kodak EasyShare C1550 16.0 MP Digital Camera - Silver</name>
+<cons>We could have got it cheaper if we had waited.</cons>
+<cons>Needs better zooming capability.</cons>
+<name>Samsung ST65 Digital Camera</name>
+<cons>No viewfinder. Mini memory card. </cons>
+<cons>the memory capacity is not very big, No viewfinder, Low light performance and flash.</cons>
+<cons>none</cons>
+<cons><b>Internal Memory And Memory Card</b></cons>
+<name>Sony NEX-5N Digital Camera with 18-55mm lens</name>
+<cons>Single Accessory port limiting further versatility, i.e. Flash with EVF finder. Cannot use both.</cons>
+<cons>Price of lenses</cons>
+<cons>Problems with auto focus and Sony support is dismal and unhelpful</cons>
+<cons>battery life can sometimes deplete too fast (but I take tons of shots)</cons>
+<cons>Poorly designed USB Port</cons>
+<name>Cobra Digital DC5500 5.0 MP Digital Camera - Silver</name>
+<cons>Inferior images, performance quality and battery endurance</cons>
+<name>Canon PowerShot A1400 16.0 MP Digital Camera - Black</name>
+<cons>Viewfinder is to small to be useful</cons>
+<cons>Its not having Optical Image Stabilisation. No optical Zoom in Video Capture mode.</cons>
+<name>Fujifilm FinePix S Series S3280 14.0 MP Digital Camera - Black</name>
+<cons>None</cons>
+<name>Canon EOS Rebel T3 / EOS 1100D 12.2 MP Digital SLR Camera - Black (Kit w/ EF-S IS II 18-55mm Lens)</name>
+<cons>Lower res screen, slower AF in live mode.</cons>
+<cons>1. Pentamirror viewfinder</cons>
+<name>Nikon D D5100 16.2 MP Digital SLR Camera - Black (Body Only)</name>
+<cons>cant change video settings</cons>
+<cons>Unreliable customer service.</cons>
+<cons>Nothing, really.</cons>
+<cons>Bad focus values</cons>
+<cons>Auto focus delay if cencor is damaged</cons>
+<name>Canon EOS Rebel T3i / 600D 18.0 MP Digital SLR Camera - Black (Body Only) (5169B001)</name>
+<cons>Wifi/wireless sharing feature not present</cons>
+<cons>Expensive, afraid to damage it, bought the oops I dropped it insurance too.</cons>
+<cons>none!</cons>
+<cons>Video doesn't work on mine. Maybe its because me memory stick isnt large enough.</cons>
+<cons>grip is a little small for my hands</cons>
+<name>Fujifilm FinePix A Series AX300 14.0 MP Digital Camera - Black</name>
+<cons>Runs on batteries</cons>
+<cons>runs on batteries</cons>
+<name>Samsung WB Series WB210 14.0 MP Digital Camera - Black</name>
+<cons>flash (on right side) naturally gets covered by the hand pushing the button.</cons>
+<name>Canon PowerShot ELPH 500 HS / IXUS 310 HS 12.1 MP Digital Camera - Pink</name>
+<cons>Touch screen LCD is slow and imprecise, expensive,slight tendency toward over-exposure</cons>
+<name>Panasonic LUMIX DMC-GX1K 16.0 MP Digital Camera - Silver (Kit w/ ASPH 14-42mm Lens) (Vario G)</name>
+<cons>Not really a small camera, especially considering the total kit.</cons>
+<name>RCA CDS4100 1.5 MP Digital Camera - Gray</name>
+<cons>n/a</cons>
+<cons>Short battery life, most user settings are not saved when the camera is turned off</cons>
+<cons>Good Pictures</cons>
+<cons>many design flaws, goes through too many batteries!</cons>
+<cons>Hard to find memory card that work with them.</cons>
+<name>Vivitar ViviCam 7122 7.1 MP Digital Camera - Black</name>
+<cons>unable to see your picture when snapping in the dark.</cons>
+<name>Konica Minolta Q-mini 0.3 MP Digital Camera - Black Silver</name>
+<cons>no CF card reader support, old, no USB options</cons>
+<cons>Sucks batteries, needs expensive ($50+) DC adapter</cons>
+<cons>standard 2MB memory module holds just 12 full-size photos, no zoom lens, not megapixel</cons>
+<cons>difficult focusing up close, 1st copy died, small screen</cons>
+<name>Canon PowerShot A2200 14.1 MP Digital Camera - Red</name>
+<cons>Exceeding the 4x zoom, picture is blurry.</cons>
+<cons>Terrible picture quality on all settings.</cons>
+<cons><b>This camera doesn't have alot of cons beside's it only comes in a few colors.</b></cons>
+<name>Olympus FE FE-3000 10.0 MP Digital Camera - Titanium</name>
+<cons>pictures can become blurry depending on setting, small video dimensions, slow shutter speed</cons>
+<name>Casio EXILIM ZOOM EX-ZS5 14.1 MP Digital Camera - Black</name>
+<cons>Hard to take pictures in the dark, or with alot of motion</cons>
+<name>Kodak EasyShare M590 14.0 MP Digital Camera - Purple</name>
+<cons>The camera does not come with a memory card and it gets damaged easily(scratches)</cons>
+<name>Nikon D5100 Digital Camera with 18-55mm and 70-300mm lenses</name>
+<cons>- Slightly small viewfinder.</cons>

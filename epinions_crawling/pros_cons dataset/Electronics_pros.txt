@@ -1,0 +1,12 @@
+<name>Audiovox HDTVi for HDTV (034405002222)</name>
+<pros>Receives and amplifies TV signals well.</pros>
+<pros>Good reception without amplification. Highly directional which cuts down interference. Amplification when used does help.</pros>
+<pros>Excellent reception (your mileage may vary), attractive design.</pros>
+<pros>Affordable, effective, and easy to use.</pros>
+<pros>Easy Setup, requires no ext. power, Amazing picture quality</pros>
+<name>Conair TAD 1212W Digital Answering Machine</name>
+<pros>It's cheap, it works, some nice features</pros>
+<name>Nikon NIKKOR 24-120mm f/4 AS G SWM AF-S VR IF N M/A ED Lens</name>
+<pros>VG build, VR modes, some weather sealing, good focal range</pros>
+<name>Sennheiser HD 598 Headband Headphones - Brown</name>
+<pros>Wide soundstage, open/airy, forward presentation, single-end detachable cord, comfort</pros>

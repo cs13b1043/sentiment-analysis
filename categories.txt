@@ -1,0 +1,32 @@
+dvd player
+4
+Computers
+Electronics
+Music
+Movies
+
+digital camera
+4
+Digital Cameras
+Computers
+Electronics
+Tablets & eReaders
+
+mp3 player
+4
+Music
+Computers
+Electronics
+Tablets & eReaders
+
+cellular phone
+3
+Computers
+Electronics
+Tablets & eReaders
+
+processors
+3
+Computers
+Electronics
+Tablets & eReaders

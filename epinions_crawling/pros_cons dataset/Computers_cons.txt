@@ -1,0 +1,53 @@
+<name>Linksys E1200 300 Mbps 4-Port 10/100 Wireless N Router (E1200-NP)</name>
+<cons>None.</cons>
+<cons>Router activity lights are on the rear of the router. </cons>
+<name>Roku 3 Digital HD Media Streamer</name>
+<cons>Needs to be reset occasionally.</cons>
+<cons>No support for live over the air TV and poor support for local video content.</cons>
+<cons>It switches back down to a lower resolution, but my set up may have issues.</cons>
+<name>Apple iPad 2 16GB, Wi-Fi, 9.7in - Black (MC769LL/A)</name>
+<cons>It takes a l-o-n-g t-i-m-e to charge it up.</cons>
+<cons>Glare in sulight</cons>
+<cons>Nothing</cons>
+<cons>i see no cons in this iPad..enjoying it</cons>
+<cons>App Store = limited apps</cons>
+<name>Netgear N600 450 Mbps 4-Port Gigabit Wireless N Router (WNDR4500)</name>
+<cons>None</cons>
+<cons>55 eMail exchanges since April, without seeing any sign of achieving my goal.</cons>
+<name>Logitech Z-2300 Computer Speakers</name>
+<cons>None</cons>
+<cons>Proprietary cabling system. The subwoofer cabinet is large.</cons>
+<cons>Boomy sub, bass only extend to 35Hz, no tweeter(still speakers produce fantastic treble) short cables.</cons>
+<cons>Cables could be longer.</cons>
+<cons>Level of detail discernible from these speakers is very low for how highly they're rated.</cons>
+<name>Apple iPad mini 1st Generation 16GB, Wi-Fi, 7.9in - Black & Slate</name>
+<cons>...unfortunately it took over 2 years to make and the competition caught up.</cons>
+<cons>Not very useful to me, Apple customer support scares me.</cons>
+<cons>Just what I need: another overpriced, gotta-have Apple product</cons>
+<cons>Display</cons>
+<cons>Some apps may crash but that has nothing to do with the iPad mini</cons>
+<name>Apple iPad Air 1st Generation 16GB, Wi-Fi, 9.7in - Space Gray</name>
+<cons>No Touch ID</cons>
+<cons>-No touch ID -Premium storage -Needs anti-reflective coating for outdoor use -Lacks microSD card slot</cons>
+<cons>Repairing and upgrading</cons>
+<cons>- No Retina Display</cons>
+<cons>No option for expandable storage</cons>
+<name>D-Link WBR-1310 54 Mbps 4-Port 10/100 Wireless G Router</name>
+<cons>None</cons>
+<cons>We had to purchase a $50adaptor to make this unit work with my daughters computer.</cons>
+<cons>extremely unreliable connection, no printed instructions.</cons>
+<cons><b>GET A WIRELESS GATEWAY INSTEAD</b></cons>
+<cons>I should have set this up long ago!</cons>
+<name>Epson Perfection V700 PHOTO Flatbed Scanner</name>
+<cons>I honestly cannot think of any at this time.</cons>
+<cons>Very bad software. I don't know of anything better.</cons>
+<cons>Film holders, size, included software, lack of external SATA</cons>
+<name>HP Envy 4500 All-In-One Inkjet Printer</name>
+<cons>Need to be handy to do your own set up</cons>
+<cons>To much trouble to setup and too slow for my needs</cons>
+<cons>Have not been able to receive a fax yet.</cons>
+<cons>Set up was a little difficult ,a little slow with printing...</cons>
+<name>Apple iPad mini 1st Generation 64GB, Wi-Fi, 7.9in - Black & Slate</name>
+<cons>On the expensive side, but well worth it, nonetheless.</cons>
+<name>Apple iPad mini 2 16GB, Wi-Fi, 7.9in - Silver</name>
+<cons>Some things can look tiny.</cons>

@@ -1,0 +1,49 @@
+<name>Apple iPad Air 1st Generation 16GB, Wi-Fi, 9.7in - Silver</name>
+<pros>Lightweight</pros>
+<pros>All new features:A7, M7 chips<br>Physically improved by making it lighter and slimmer.<br></pros>
+<name>Apple iPad 2 16GB, Wi-Fi, 9.7in - Black (MC769LL/A)</name>
+<pros>Portable, easy to use, great picture and sound on videos!</pros>
+<pros>Sleek and light weight</pros>
+<pros>Great Image</pros>
+<pros>The OS gets updated automatically .</pros>
+<pros>Battery life is great, & it's perfect for Skyping/typing/browsing/playing Candy Crush</pros>
+<name>Apple iPad mini 1st Generation 16GB, Wi-Fi, 7.9in - Black & Slate</name>
+<pros>The cost, size and build quality you wanted since iPad was released...</pros>
+<pros>Good multi-touch (10 simultaneous), nice screen, very portable, long battery life, lots of apps, robust.</pros>
+<pros>Clean, elegant, and ergonomically precise: classic Apple technology</pros>
+<pros>Portable, Light, Thin</pros>
+<pros>Amazing quality Great features Sleek design Great for all ages</pros>
+<name>Kurio 7 4GB, Wi-Fi, 7in - White</name>
+<pros>Very child friendly software.</pros>
+<name>BlackBerry PlayBook 64GB, Wi-Fi, 7in - Black</name>
+<pros>Portable</pros>
+<pros>Supports Flash, Adobe Reader, Word, Excel. Compact. Superb sound & screen. Super easy button-free screen.</pros>
+<pros>nice video and sound quality</pros>
+<name>Amazon Kindle Fire (1st Generation) 8GB, Wi-Fi, 7in - Black</name>
+<pros>Screen, display, sound, portability, ease of use, etc.</pros>
+<pros>Great portability</pros>
+<name>Apple iPad Air 1st Generation 16GB, Wi-Fi + Cellular (AT&T), 9.7in - Silver</name>
+<pros>Very light weight</pros>
+<name>Apple iPad mini 1st Generation 64GB, Wi-Fi, 7.9in - Black & Slate</name>
+<pros>Durable. Lightweight. Exellent web interface.</pros>
+<name>Fuhu Nabi 2 8GB, Wi-Fi, 7in - Red</name>
+<pros>Kid-safe, grandma approved! A sturdy and powerful tablet.</pros>
+<pros>Lightweight user friendly design.</pros>
+<pros>Easy to understand.</pros>
+<pros>Program chores, very strict parental control, children can earn apps/coins when chores are completed</pros>
+<pros>Helps motivate kids, usb, memory card, rubber bumper</pros>
+<name>Apple iPad Air 1st Generation 16GB, Wi-Fi, 9.7in - Space Gray</name>
+<pros>Extremely Fast</pros>
+<pros>-Sturdy yet sleek -Light weight -Long-lasting battery life -Brilliant screen resolution</pros>
+<pros>New Speaker</pros>
+<pros><b>-</b></pros>
+<pros>New featues including:</pros>
+<name>Apple iPad mini 2 16GB, Wi-Fi, 7.9in - Silver</name>
+<pros>Extreemly portable, retina display, latest processor</pros>
+<name>Apple iPad Air 1st Generation 32GB, Wi-Fi, 9.7in - Space Gray</name>
+<pros>iOS 7 experience, battery life, controls, apps (Kindle, Dropbox, Roboform, etc.), screen/readability, viewing, usage.</pros>
+<pros>-All new features:A7, M7 chips</pros>
+<name>Dell Venue 8 32GB, Wi-Fi, 8in - Black</name>
+<pros>Screen quality</pros>
+<name>Apple iPad mini 2 32GB, Wi-Fi, 7.9in - Silver</name>
+<pros>Better responsiveness (when upgrading frm an iPad2), pictures & videos more enjoyable, easier for reading</pros>

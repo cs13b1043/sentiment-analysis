@@ -1,0 +1,49 @@
+<name>Apple iPad Air 1st Generation 16GB, Wi-Fi, 9.7in - Silver</name>
+<cons>I do not have any cons to report at this time</cons>
+<cons>A little expensive for an ordinary person.</cons>
+<name>Apple iPad 2 16GB, Wi-Fi, 9.7in - Black (MC769LL/A)</name>
+<cons>It takes a l-o-n-g t-i-m-e to charge it up.</cons>
+<cons>Glare in sulight</cons>
+<cons>Nothing</cons>
+<cons>i see no cons in this iPad..enjoying it</cons>
+<cons>App Store = limited apps</cons>
+<name>Apple iPad mini 1st Generation 16GB, Wi-Fi, 7.9in - Black & Slate</name>
+<cons>...unfortunately it took over 2 years to make and the competition caught up.</cons>
+<cons>Not very useful to me, Apple customer support scares me.</cons>
+<cons>Just what I need: another overpriced, gotta-have Apple product</cons>
+<cons>Display</cons>
+<cons>Some apps may crash but that has nothing to do with the iPad mini</cons>
+<name>Kurio 7 4GB, Wi-Fi, 7in - White</name>
+<cons>Slow and a bit painful to use in Parent Mode</cons>
+<name>BlackBerry PlayBook 64GB, Wi-Fi, 7in - Black</name>
+<cons>Slow to power up, some noticeable lag times...</cons>
+<cons>Wish it had a flash for the camera. Can't wait for more Apps.</cons>
+<cons>battery sucks</cons>
+<name>Amazon Kindle Fire (1st Generation) 8GB, Wi-Fi, 7in - Black</name>
+<cons>Doesn't come with a mini USB cable for computer connection.</cons>
+<cons>Alittle bit heavy but I can handle that</cons>
+<name>Apple iPad Air 1st Generation 16GB, Wi-Fi + Cellular (AT&T), 9.7in - Silver</name>
+<cons>TOO COSTLY</cons>
+<name>Apple iPad mini 1st Generation 64GB, Wi-Fi, 7.9in - Black & Slate</name>
+<cons>On the expensive side, but well worth it, nonetheless.</cons>
+<name>Fuhu Nabi 2 8GB, Wi-Fi, 7in - Red</name>
+<cons>Unhidable system apps and proprietary power plug.</cons>
+<cons>Parental Control can be bypassed.</cons>
+<cons>Very limited App store</cons>
+<cons>None.</cons>
+<cons>Does not suport google play store,</cons>
+<name>Apple iPad Air 1st Generation 16GB, Wi-Fi, 9.7in - Space Gray</name>
+<cons>No Touch ID</cons>
+<cons>-No touch ID -Premium storage -Needs anti-reflective coating for outdoor use -Lacks microSD card slot</cons>
+<cons>Repairing and upgrading</cons>
+<cons>- No Retina Display</cons>
+<cons>No option for expandable storage</cons>
+<name>Apple iPad mini 2 16GB, Wi-Fi, 7.9in - Silver</name>
+<cons>Some things can look tiny.</cons>
+<name>Apple iPad Air 1st Generation 32GB, Wi-Fi, 9.7in - Space Gray</name>
+<cons>Heavy on thumb, charging, stupid 'Lightning', </cons>
+<cons>no cons</cons>
+<name>Dell Venue 8 32GB, Wi-Fi, 8in - Black</name>
+<cons>Battery life, it only last several hours</cons>
+<name>Apple iPad mini 2 32GB, Wi-Fi, 7.9in - Silver</name>
+<cons>Expensive ($150 more than I'd like to pay), the Nexus7 makes better value money</cons>
